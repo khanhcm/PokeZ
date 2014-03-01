@@ -63,6 +63,8 @@ public class MainGame extends SimpleBaseGameActivity{
 	private void loadGraphics() {
 		// TODO Auto-generated method stub
 		BitmapTextureAtlasTextureRegionFactory.setAssetBasePath("gfx/");
+		gameMatrix = new GameMatrix(5,8);
+	    gameMatrix.generateMatrix();
 	    bgTexture = new BitmapTextureAtlas(getTextureManager(), 1024, 1024,TextureOptions.DEFAULT);
 	    bgTextureRegion = BitmapTextureAtlasTextureRegionFactory.createFromAsset(bgTexture, this, "800_480/bg/bg5.jpg",0,0);
 	    bgTexture.load();
@@ -77,15 +79,12 @@ public class MainGame extends SimpleBaseGameActivity{
 	    	arrBoxItemTextureRegion[i]=BitmapTextureAtlasTextureRegionFactory.createFromAsset(arrBoxItemTexture[i], this, imgPath,0,0);
 	    	arrBoxItemTexture[i].load();
 	    }
-	    
 	}
 
 	@Override
 	protected Scene onCreateScene() {
 		// TODO Auto-generated method stub
 		Scene scene = new Scene();
-		gameMatrix = new GameMatrix(5,8);
-	    gameMatrix.generateMatrix();
 	    scene.setBackground(new Background(0.09804f, 0.6274f, 0.8784f));
 	    bgSprite = new Sprite(0,0,bgTextureRegion,this.getVertexBufferObjectManager());
 	    scene.attachChild(bgSprite);
@@ -95,13 +94,15 @@ public class MainGame extends SimpleBaseGameActivity{
 	    bgGameSprite.setPosition(100.0f,-50.0f);
 	    scene.attachChild(bgGameSprite);
 	    
+	    
 	    arrBoxItemSprite = new Sprite[gameMatrix.get_rows()][gameMatrix.get_cols()]; 
-	    for (int i = 0; i < 1; i++)
-	    	for (int j = 0; j< 1; j++){
+	    for (int i = 0; i < gameMatrix.get_rows(); i++)
+	    	for (int j = 0; j< gameMatrix.get_cols(); j++){
 	    		arrBoxItemSprite[i][j] = new Sprite(0,0,arrBoxItemTextureRegion[gameMatrix.getMatrix()[i][j]],this.getVertexBufferObjectManager());
-	    		//arrBoxItemSprite[i][j].setScaleCenter(400.0f, 240.0f);
+	    		arrBoxItemSprite[i][j].setScaleCenter(400.0f, 240.0f);
 	    		arrBoxItemSprite[i][j].setScale(0.125f,0.2f);
 	    		arrBoxItemSprite[i][j].setPosition(100+(87.5f*i),86.0f*j);
+	    		scene.attachChild(arrBoxItemSprite[i][j]);
 	    	}
 	    return scene;
 	}
