@@ -1,0 +1,114 @@
+<skeleton name="Bom" frameRate="24" version="1.4">
+ <armatures>
+  <armature name="bom_anim">
+   <b name="Layer 5" x="-26.05" y="-21.25" kX="0" kY="0" cX="1.32" cY="1.32" z="0" alpha="100" red="100" green="100" blue="100">
+    <d name="Symbol 2"/>
+   </b>
+   <b name="Layer 7" x="7.8" y="-36.7" kX="-74.94" kY="105.06" cX="1.2" cY="1.6" z="1" alpha="100" red="100" green="100" blue="100">
+    <d name="Symbol 2"/>
+   </b>
+   <b name="Layer 2" x="10.1" y="24.25" kX="-151.53" kY="-151.53" cX="1.29" cY="1.29" z="1" alpha="100" red="100" green="100" blue="100">
+    <d name="Symbol 2"/>
+   </b>
+   <b name="Layer 3" x="-26.05" y="21.75" kX="133.53" kY="-46.47" cX="1.17" cY="1.56" z="3" alpha="100" red="100" green="100" blue="100">
+    <d name="Symbol 2"/>
+   </b>
+   <b name="Layer 6" x="0.05" y="-2.3" kX="0" kY="0" cX="2.64" cY="2.64" z="2" alpha="100" red="100" green="100" blue="100">
+    <d name="Symbol 2"/>
+   </b>
+   <b name="Layer 1" x="-45.05" y="-54" kX="0" kY="0" cX="1" cY="1" z="3" alpha="100" red="100" green="100" blue="100">
+    <d name="Symbol 1"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="bom_anim">
+   <mov name="bom_anim_skt" dr="12" to="6" drTW="12" lp="1" twE="NaN">
+    <b name="Layer 5" sc="1" dl="0">
+     <f x="-26.05" y="-21.25" kX="0" kY="0" cX="1.32" cY="1.32" z="0" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-5.8" y="-14.95" kX="0" kY="0" cX="1.47" cY="1.47" z="0" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-4.25" y="-27.25" kX="0" kY="0" cX="1.62" cY="1.62" z="0" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="9.4" y="-19.95" kX="0" kY="0" cX="1.62" cY="1.62" z="0" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="23.25" y="-12.5" kX="0" kY="0" cX="1.62" cY="1.62" z="0" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="12.15" y="4.65" kX="0" kY="0" cX="1.62" cY="1.62" z="0" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="1" y="21.8" kX="0" kY="0" cX="1.62" cY="1.62" z="0" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-9.3" y="7.9" kX="0" kY="0" cX="1.62" cY="1.62" z="0" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-19.7" y="-6" kX="0" kY="0" cX="1.62" cY="1.62" z="0" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f dr="3" dI="-1"/>
+    </b>
+    <b name="Layer 7" sc="1" dl="0">
+     <f dr="1" dI="-1"/>
+     <f x="7.8" y="-36.7" kX="-74.94" kY="105.06" cX="1.2" cY="1.6" z="1" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-3.6" y="-29.9" kX="-58.43" kY="121.57" cX="1.37" cY="1.57" z="1" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-13.65" y="-20.7" kX="-41.94" kY="138.06" cX="1.54" cY="1.54" z="1" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-15.6" y="-15.9" kX="-41.88" kY="138.12" cX="1.54" cY="1.54" z="1" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-17.5" y="-11.25" kX="-41.88" kY="138.12" cX="1.54" cY="1.54" z="1" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-19.45" y="-6.3" kX="-41.94" kY="138.06" cX="1.54" cY="1.54" z="1" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-15" y="8.1" kX="-41.88" kY="138.12" cX="1.54" cY="1.54" z="1" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-10.65" y="22.05" kX="-41.94" kY="138.06" cX="1.54" cY="1.54" z="1" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-30.65" y="3.25" kX="-41.88" kY="48.12" cX="1.54" cY="1.54" z="0" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-26.95" y="11" kX="-41.94" kY="-41.94" cX="1.54" cY="1.54" z="0" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f dr="1" dI="-1"/>
+    </b>
+    <b name="Layer 2" sc="1" dl="0">
+     <f x="10.1" y="24.25" kX="-151.53" kY="-151.53" cX="1.29" cY="1.29" z="1" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-0.6" y="21.7" kX="-151.65" kY="-151.65" cX="1.43" cY="1.43" z="2" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-11.4" y="19.25" kX="-151.53" kY="-151.53" cX="1.57" cY="1.57" z="2" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-19.6" y="6.5" kX="-151.65" kY="-151.65" cX="1.57" cY="1.57" z="2" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-28" y="-6.1" kX="-151.53" kY="-151.53" cX="1.57" cY="1.57" z="2" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-10.45" y="-15.6" kX="-151.65" kY="-151.65" cX="1.57" cY="1.57" z="2" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="6.9" y="-25.1" kX="-151.53" kY="-151.53" cX="1.57" cY="1.57" z="2" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="14.35" y="-13.15" kX="-151.65" kY="-151.65" cX="1.57" cY="1.57" z="2" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="21.75" y="-1.2" kX="-151.53" kY="-151.53" cX="1.57" cY="1.57" z="2" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f dr="3" dI="-1"/>
+    </b>
+    <b name="Layer 3" sc="1" dl="0">
+     <f dr="1" dI="-1"/>
+     <f x="-26.05" y="21.75" kX="133.53" kY="-46.47" cX="1.17" cY="1.56" z="3" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-13.2" y="21.15" kX="150.15" kY="-29.85" cX="1.33" cY="1.53" z="3" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-0.3" y="18" kX="166.53" kY="-13.47" cX="1.5" cY="1.5" z="3" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="5.9" y="6.4" kX="166.68" kY="-13.32" cX="1.5" cY="1.5" z="3" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="12.2" y="-5.2" kX="166.68" kY="-13.32" cX="1.5" cY="1.5" z="3" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="18.6" y="-16.95" kX="166.53" kY="-13.47" cX="1.5" cY="1.5" z="3" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="17.75" y="-18.5" kX="166.68" kY="-13.32" cX="1.5" cY="1.5" z="3" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="16.95" y="-19.85" kX="166.53" kY="-13.47" cX="1.5" cY="1.5" z="3" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="17.3" y="-28.1" kX="166.68" kY="76.68" cX="1.5" cY="1.5" z="1" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="25.8" y="-2.95" kX="166.53" kY="166.53" cX="1.5" cY="1.5" z="1" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f dr="1" dI="-1"/>
+    </b>
+    <b name="Layer 6" sc="1" dl="0">
+     <f x="0.05" y="-2.3" kX="0" kY="0" cX="2.64" cY="2.64" z="2" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="0.1" y="-2.05" kX="0" kY="0" cX="2.64" cY="2.55" z="4" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="0.1" y="-1.85" kX="0" kY="0" cX="2.64" cY="2.45" z="4" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="0.05" y="-1.4" kX="0" kY="0" cX="2.64" cY="2.35" z="4" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="0.1" y="-2.05" kX="0" kY="0" cX="2.64" cY="2.4" z="4" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="0.1" y="-2.65" kX="0" kY="0" cX="2.64" cY="2.46" z="4" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="0.05" y="-3.3" kX="0" kY="0" cX="2.64" cY="2.51" z="4" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="0.55" y="-3.35" kX="0" kY="0" cX="2.64" cY="2.51" z="4" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="1" y="-3.35" kX="0" kY="0" cX="2.64" cY="2.51" z="4" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="1.4" y="-3.3" kX="0" kY="0" cX="2.64" cY="2.51" z="2" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="0.7" y="-2.8" kX="0" kY="0" cX="2.64" cY="2.58" z="2" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="0.05" y="-2.3" kX="0" kY="0" cX="2.64" cY="2.64" z="0" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+    </b>
+    <b name="Layer 1" sc="1" dl="0">
+     <f x="-45.05" y="-54" kX="0" kY="0" cX="1" cY="1" z="3" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-45.35" y="-54.3" kX="0" kY="0" cX="1.01" cY="1.01" z="5" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-45.75" y="-54.6" kX="0" kY="0" cX="1.01" cY="1.01" z="5" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-46.05" y="-54.9" kX="0" kY="0" cX="1.02" cY="1.02" z="5" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-46.35" y="-55.2" kX="0" kY="0" cX="1.02" cY="1.02" z="5" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-46.75" y="-55.5" kX="0" kY="0" cX="1.03" cY="1.03" z="5" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-47.05" y="-55.8" kX="0" kY="0" cX="1.04" cY="1.04" z="5" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-46.65" y="-55.4" kX="0" kY="0" cX="1.03" cY="1.03" z="5" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-46.25" y="-55.1" kX="0" kY="0" cX="1.02" cY="1.02" z="5" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-45.85" y="-54.7" kX="0" kY="0" cX="1.01" cY="1.01" z="3" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-45.45" y="-54.35" kX="0" kY="0" cX="1.01" cY="1.01" z="3" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-45.05" y="-54" kX="0" kY="0" cX="1" cY="1" z="1" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="Bom" width="256" height="128">
+  <SubTexture name="Symbol 1" pX="0" pY="0" width="112" height="101" x="0" y="0"/>
+  <SubTexture name="Symbol 2" pX="36" pY="34.55" width="74" height="74" x="114" y="0"/>
+ </TextureAtlas>
+</skeleton>

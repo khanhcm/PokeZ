@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>Symbol 17 copy 2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{356,0},{329,238}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{329,238}}</string>
+			<key>sourceSize</key>
+			<string>{329,238}</string>
+		</dict>
+		<key>Symbol 17 copy 3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,0},{355,258}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{355,258}}</string>
+			<key>sourceSize</key>
+			<string>{355,258}</string>
+		</dict>
+		<key>Symbol 17 copy 4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{686,0},{323,236}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{323,236}}</string>
+			<key>sourceSize</key>
+			<string>{323,236}</string>
+		</dict>
+		<key>Symbol 17 copy.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{686,237},{323,236}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{323,236}}</string>
+			<key>sourceSize</key>
+			<string>{323,236}</string>
+		</dict>
+		<key>Symbol 19 copy 2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{356,239},{267,214}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{267,214}}</string>
+			<key>sourceSize</key>
+			<string>{267,214}</string>
+		</dict>
+		<key>Symbol 19 copy.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{356,454},{260,207}}</string>
+			<key>offset</key>
+			<string>{0,1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{260,207}}</string>
+			<key>sourceSize</key>
+			<string>{260,208}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>readygoanim.png</string>
+		<key>size</key>
+		<string>{1024,1024}</string>
+		<key>smartupdate</key>
+		<string>{None}</string>
+		<key>textureFileName</key>
+		<string>readygoanim.png</string>
+	</dict>
+</dict>
+</plist>

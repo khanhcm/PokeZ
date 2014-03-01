@@ -1,0 +1,284 @@
+<skeleton name="ChonCo" frameRate="24" version="1.4">
+ <armatures>
+  <armature name="ChoncoFX">
+   <b name="Layer 11" x="-62.85" y="-80.9" kX="0" kY="0" cX="1" cY="1" z="0" alpha="100" red="100" green="100" blue="100">
+    <d name="Symbol 1"/>
+   </b>
+   <b name="Layer 1" x="63.3" y="-12.1" kX="0" kY="0" cX="1" cY="1" z="1" alpha="100" red="100" green="100" blue="100">
+    <d name="chonco"/>
+   </b>
+   <b name="Layer 2" x="63.35" y="14.5" kX="0" kY="0" cX="0.79" cY="0.79" z="2" alpha="100" red="100" green="100" blue="100">
+    <d name="chonco"/>
+   </b>
+   <b name="Layer 3" x="63.4" y="32.65" kX="0" kY="0" cX="0.68" cY="0.68" z="3" alpha="100" red="100" green="100" blue="100">
+    <d name="chonco"/>
+   </b>
+   <b name="Layer 4" x="63.5" y="52.3" kX="0" kY="0" cX="0.57" cY="0.57" z="4" alpha="100" red="100" green="100" blue="100">
+    <d name="chonco"/>
+   </b>
+   <b name="Layer 5" x="63.4" y="68.25" kX="0" kY="0" cX="0.75" cY="0.75" z="5" alpha="100" red="100" green="100" blue="100">
+    <d name="chonco copy"/>
+   </b>
+   <b name="Layer 6" x="62.85" y="82.55" kX="0" kY="0" cX="0.58" cY="0.72" z="6" alpha="100" red="100" green="100" blue="100">
+    <d name="chonco copy"/>
+   </b>
+   <b name="Layer 7" x="50.55" y="89.45" kX="0" kY="0" cX="0.45" cY="0.61" z="7" alpha="100" red="100" green="100" blue="100">
+    <d name="chonco copy"/>
+   </b>
+   <b name="Layer 8" x="37.9" y="88.7" kX="0" kY="0" cX="0.31" cY="0.51" z="8" alpha="100" red="100" green="100" blue="100">
+    <d name="chonco copy"/>
+   </b>
+   <b name="Layer 9" x="28.45" y="88.8" kX="0" kY="0" cX="0.22" cY="0.36" z="9" alpha="100" red="100" green="100" blue="100">
+    <d name="chonco copy"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="ChoncoFX">
+   <mov name="Chonco" dr="24" to="6" drTW="24" lp="1" twE="NaN">
+    <b name="Layer 11" sc="1" dl="0">
+     <f x="-62.85" y="-80.9" kX="0" kY="0" cX="1" cY="1" z="0" alpha="100" red="100" green="100" blue="100" dI="0" dr="24"/>
+    </b>
+    <b name="Layer 1" sc="1" dl="0">
+     <f x="63.3" y="-12.1" kX="0" kY="0" cX="1" cY="1" z="1" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.3" y="-37.35" kX="0" kY="0" cX="1" cY="1" z="1" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.3" y="-62.6" kX="0" kY="0" cX="1" cY="1" z="1" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="54.7" y="-83.35" kX="0" kY="0" cX="1" cY="1" z="1" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="29.35" y="-83.65" kX="0" kY="0" cX="1" cY="1" z="1" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="4.1" y="-83.65" kX="0" kY="0" cX="1" cY="1" z="1" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-21.15" y="-83.65" kX="0" kY="0" cX="1" cY="1" z="1" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-46.4" y="-83.65" kX="0" kY="0" cX="1" cY="1" z="1" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.45" y="-73" kX="0" kY="0" cX="1" cY="1" z="1" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.5" y="-47.7" kX="0" kY="0" cX="1" cY="1" z="1" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.5" y="-22.5" kX="0" kY="0" cX="1" cY="1" z="1" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.5" y="2.75" kX="0" kY="0" cX="1" cY="1" z="1" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.5" y="28.05" kX="0" kY="0" cX="1" cY="1" z="1" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.5" y="53.3" kX="0" kY="0" cX="1" cY="1" z="1" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.3" y="78.45" kX="0" kY="0" cX="1" cY="1" z="1" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-44.75" y="87.55" kX="0" kY="0" cX="1" cY="1" z="1" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-19.5" y="87.55" kX="0" kY="0" cX="1" cY="1" z="1" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="5.75" y="87.55" kX="0" kY="0" cX="1" cY="1" z="1" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="31" y="87.55" kX="0" kY="0" cX="1" cY="1" z="1" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="56.05" y="86.95" kX="0" kY="0" cX="1" cY="1" z="1" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.3" y="64.85" kX="0" kY="0" cX="1" cY="1" z="1" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.3" y="39.6" kX="0" kY="0" cX="1" cY="1" z="1" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.3" y="14.35" kX="0" kY="0" cX="1" cY="1" z="1" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.3" y="-10.9" kX="0" kY="0" cX="1" cY="1" z="1" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+    </b>
+    <b name="Layer 2" sc="1" dl="0">
+     <f x="63.35" y="14.5" kX="0" kY="0" cX="0.79" cY="0.79" z="2" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.35" y="-10.75" kX="0" kY="0" cX="0.79" cY="0.79" z="2" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.35" y="-36.05" kX="0" kY="0" cX="0.79" cY="0.79" z="2" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.35" y="-61.3" kX="0" kY="0" cX="0.79" cY="0.79" z="2" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="56.05" y="-83.15" kX="0" kY="0" cX="0.79" cY="0.79" z="2" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="30.7" y="-83.75" kX="0" kY="0" cX="0.79" cY="0.79" z="2" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="5.45" y="-83.75" kX="0" kY="0" cX="0.79" cY="0.79" z="2" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-19.85" y="-83.75" kX="0" kY="0" cX="0.79" cY="0.79" z="2" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-45.1" y="-83.75" kX="0" kY="0" cX="0.79" cY="0.79" z="2" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.3" y="-74.4" kX="0" kY="0" cX="0.79" cY="0.79" z="2" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.45" y="-49.05" kX="0" kY="0" cX="0.79" cY="0.79" z="2" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.45" y="-23.8" kX="0" kY="0" cX="0.79" cY="0.79" z="2" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.45" y="1.45" kX="0" kY="0" cX="0.79" cY="0.79" z="2" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.45" y="26.75" kX="0" kY="0" cX="0.79" cY="0.79" z="2" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.45" y="52" kX="0" kY="0" cX="0.79" cY="0.79" z="2" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.4" y="77.2" kX="0" kY="0" cX="0.79" cY="0.79" z="2" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-45.85" y="87.45" kX="0" kY="0" cX="0.79" cY="0.79" z="2" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-20.6" y="87.45" kX="0" kY="0" cX="0.79" cY="0.79" z="2" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="4.65" y="87.45" kX="0" kY="0" cX="0.79" cY="0.79" z="2" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="29.95" y="87.45" kX="0" kY="0" cX="0.79" cY="0.79" z="2" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="55.05" y="87.1" kX="0" kY="0" cX="0.79" cY="0.79" z="2" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.35" y="65.85" kX="0" kY="0" cX="0.79" cY="0.79" z="2" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.35" y="40.55" kX="0" kY="0" cX="0.79" cY="0.79" z="2" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.35" y="15.3" kX="0" kY="0" cX="0.79" cY="0.79" z="2" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+    </b>
+    <b name="Layer 3" sc="1" dl="0">
+     <f x="63.4" y="32.65" kX="0" kY="0" cX="0.68" cY="0.68" z="3" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.4" y="7.45" kX="0" kY="0" cX="0.68" cY="0.68" z="3" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.4" y="-17.8" kX="0" kY="0" cX="0.68" cY="0.68" z="3" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.4" y="-43.05" kX="0" kY="0" cX="0.68" cY="0.68" z="3" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.4" y="-68.25" kX="0" kY="0" cX="0.68" cY="0.68" z="3" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="47.05" y="-81.65" kX="0" kY="0" cX="0.68" cY="0.68" z="3" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="21.8" y="-81.65" kX="0" kY="0" cX="0.68" cY="0.68" z="3" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-3.45" y="-81.65" kX="0" kY="0" cX="0.68" cY="0.68" z="3" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-28.65" y="-81.65" kX="0" kY="0" cX="0.68" cY="0.68" z="3" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-53.9" y="-81.65" kX="0" kY="0" cX="0.68" cY="0.68" z="3" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.4" y="-63.45" kX="0" kY="0" cX="0.68" cY="0.68" z="3" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.4" y="-38.2" kX="0" kY="0" cX="0.68" cY="0.68" z="3" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.4" y="-13" kX="0" kY="0" cX="0.68" cY="0.68" z="3" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.4" y="12.25" kX="0" kY="0" cX="0.68" cY="0.68" z="3" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.4" y="37.5" kX="0" kY="0" cX="0.68" cY="0.68" z="3" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.4" y="62.7" kX="0" kY="0" cX="0.68" cY="0.68" z="3" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-62.1" y="86.85" kX="0" kY="0" cX="0.68" cY="0.68" z="3" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-37.3" y="89.55" kX="0" kY="0" cX="0.68" cY="0.68" z="3" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-12.05" y="89.55" kX="0" kY="0" cX="0.68" cY="0.68" z="3" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="13.15" y="89.55" kX="0" kY="0" cX="0.68" cY="0.68" z="3" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="38.4" y="89.55" kX="0" kY="0" cX="0.68" cY="0.68" z="3" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="61.8" y="84.75" kX="0" kY="0" cX="0.68" cY="0.68" z="3" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.4" y="59.7" kX="0" kY="0" cX="0.68" cY="0.68" z="3" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.4" y="34.45" kX="0" kY="0" cX="0.68" cY="0.68" z="3" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+    </b>
+    <b name="Layer 4" sc="1" dl="0">
+     <f x="63.5" y="52.3" kX="0" kY="0" cX="0.57" cY="0.57" z="4" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.5" y="26.95" kX="0" kY="0" cX="0.57" cY="0.57" z="4" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.5" y="1.7" kX="0" kY="0" cX="0.57" cY="0.57" z="4" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.5" y="-23.55" kX="0" kY="0" cX="0.57" cY="0.57" z="4" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.5" y="-48.75" kX="0" kY="0" cX="0.57" cY="0.57" z="4" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.15" y="-73.85" kX="0" kY="0" cX="0.57" cY="0.57" z="4" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="41.75" y="-82" kX="0" kY="0" cX="0.57" cY="0.57" z="4" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="16.55" y="-82" kX="0" kY="0" cX="0.57" cY="0.57" z="4" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-8.7" y="-82" kX="0" kY="0" cX="0.57" cY="0.57" z="4" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-33.9" y="-82" kX="0" kY="0" cX="0.57" cY="0.57" z="4" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-58.9" y="-81.15" kX="0" kY="0" cX="0.57" cY="0.57" z="4" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.3" y="-58.45" kX="0" kY="0" cX="0.57" cY="0.57" z="4" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.3" y="-33.2" kX="0" kY="0" cX="0.57" cY="0.57" z="4" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.3" y="-8" kX="0" kY="0" cX="0.57" cY="0.57" z="4" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.3" y="17.25" kX="0" kY="0" cX="0.57" cY="0.57" z="4" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.3" y="42.5" kX="0" kY="0" cX="0.57" cY="0.57" z="4" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.3" y="67.7" kX="0" kY="0" cX="0.57" cY="0.57" z="4" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-57.15" y="88.85" kX="0" kY="0" cX="0.57" cY="0.57" z="4" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-31.85" y="89.2" kX="0" kY="0" cX="0.57" cY="0.57" z="4" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-6.6" y="89.2" kX="0" kY="0" cX="0.57" cY="0.57" z="4" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="18.6" y="89.2" kX="0" kY="0" cX="0.57" cY="0.57" z="4" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="43.85" y="89.2" kX="0" kY="0" cX="0.57" cY="0.57" z="4" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.4" y="79.2" kX="0" kY="0" cX="0.57" cY="0.57" z="4" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.6" y="53.9" kX="0" kY="0" cX="0.57" cY="0.57" z="4" alpha="100" red="100" green="100" blue="100" dI="0" dr="1"/>
+    </b>
+    <b name="Layer 5" sc="1" dl="0">
+     <f x="63.4" y="68.25" kX="0" kY="0" cX="0.75" cY="0.75" z="5" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.4" y="43" kX="0" kY="0" cX="0.75" cY="0.75" z="5" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.4" y="17.75" kX="0" kY="0" cX="0.75" cY="0.75" z="5" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.4" y="-7.5" kX="0" kY="0" cX="0.75" cY="0.75" z="5" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.4" y="-32.75" kX="0" kY="0" cX="0.75" cY="0.75" z="5" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.4" y="-58" kX="0" kY="0" cX="0.75" cY="0.75" z="5" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="57.1" y="-80.5" kX="0" kY="0" cX="0.75" cY="0.75" z="5" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="31.8" y="-81.4" kX="0" kY="0" cX="0.75" cY="0.75" z="5" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="6.55" y="-81.4" kX="0" kY="0" cX="0.75" cY="0.75" z="5" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-18.7" y="-81.4" kX="0" kY="0" cX="0.75" cY="0.75" z="5" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-43.95" y="-81.4" kX="0" kY="0" cX="0.75" cY="0.75" z="5" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.05" y="-73.2" kX="0" kY="0" cX="0.75" cY="0.75" z="5" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.4" y="-47.85" kX="0" kY="0" cX="0.75" cY="0.75" z="5" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.4" y="-22.6" kX="0" kY="0" cX="0.75" cY="0.75" z="5" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.4" y="2.65" kX="0" kY="0" cX="0.75" cY="0.75" z="5" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.4" y="27.9" kX="0" kY="0" cX="0.75" cY="0.75" z="5" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.4" y="53.15" kX="0" kY="0" cX="0.75" cY="0.75" z="5" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.4" y="78.4" kX="0" kY="0" cX="0.75" cY="0.75" z="5" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-47.05" y="89.8" kX="0" kY="0" cX="0.75" cY="0.75" z="5" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-21.8" y="89.8" kX="0" kY="0" cX="0.75" cY="0.75" z="5" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="3.45" y="89.8" kX="0" kY="0" cX="0.75" cY="0.75" z="5" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="28.7" y="89.8" kX="0" kY="0" cX="0.75" cY="0.75" z="5" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="53.85" y="89.65" kX="0" kY="0" cX="0.75" cY="0.75" z="5" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.5" y="69.5" kX="0" kY="0" cX="0.75" cY="0.75" z="5" alpha="100" red="100" green="100" blue="100" dI="0" dr="1"/>
+    </b>
+    <b name="Layer 6" sc="1" dl="0">
+     <f x="62.85" y="82.55" kX="0" kY="0" cX="0.58" cY="0.72" z="6" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.45" y="57.35" kX="0" kY="0" cX="0.58" cY="0.72" z="6" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.45" y="32.1" kX="0" kY="0" cX="0.58" cY="0.72" z="6" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.45" y="6.85" kX="0" kY="0" cX="0.58" cY="0.72" z="6" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.45" y="-18.4" kX="0" kY="0" cX="0.58" cY="0.72" z="6" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.45" y="-43.65" kX="0" kY="0" cX="0.58" cY="0.72" z="6" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.45" y="-68.9" kX="0" kY="0" cX="0.58" cY="0.72" z="6" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="46.3" y="-81.5" kX="0" kY="0" cX="0.58" cY="0.72" z="6" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="21.05" y="-81.5" kX="0" kY="0" cX="0.58" cY="0.72" z="6" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-4.2" y="-81.5" kX="0" kY="0" cX="0.58" cY="0.72" z="6" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-29.4" y="-81.5" kX="0" kY="0" cX="0.58" cY="0.72" z="6" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-54.65" y="-81.45" kX="0" kY="0" cX="0.58" cY="0.72" z="6" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.35" y="-62.45" kX="0" kY="0" cX="0.58" cY="0.72" z="6" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.35" y="-37.2" kX="0" kY="0" cX="0.58" cY="0.72" z="6" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.35" y="-11.95" kX="0" kY="0" cX="0.58" cY="0.72" z="6" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.35" y="13.3" kX="0" kY="0" cX="0.58" cY="0.72" z="6" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.35" y="38.55" kX="0" kY="0" cX="0.58" cY="0.72" z="6" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.35" y="63.8" kX="0" kY="0" cX="0.58" cY="0.72" z="6" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-61.3" y="87.6" kX="0" kY="0" cX="0.58" cY="0.72" z="6" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-36.25" y="89.7" kX="0" kY="0" cX="0.58" cY="0.72" z="6" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-11" y="89.7" kX="0" kY="0" cX="0.58" cY="0.72" z="6" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="14.2" y="89.7" kX="0" kY="0" cX="0.58" cY="0.72" z="6" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="39.45" y="89.7" kX="0" kY="0" cX="0.58" cY="0.72" z="6" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="62.15" y="83.85" kX="0" kY="0" cX="0.58" cY="0.72" z="6" alpha="100" red="100" green="100" blue="100" dI="0" dr="1"/>
+    </b>
+    <b name="Layer 7" sc="1" dl="0">
+     <f x="50.55" y="89.45" kX="0" kY="0" cX="0.45" cY="0.61" z="7" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.55" y="72.65" kX="0" kY="0" cX="0.45" cY="0.61" z="7" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.55" y="47.4" kX="0" kY="0" cX="0.45" cY="0.61" z="7" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.55" y="22.2" kX="0" kY="0" cX="0.45" cY="0.61" z="7" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.55" y="-3" kX="0" kY="0" cX="0.45" cY="0.61" z="7" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.55" y="-28.25" kX="0" kY="0" cX="0.45" cY="0.61" z="7" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.55" y="-53.45" kX="0" kY="0" cX="0.45" cY="0.61" z="7" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="61.3" y="-78" kX="0" kY="0" cX="0.45" cY="0.61" z="7" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="37" y="-81.85" kX="0" kY="0" cX="0.45" cY="0.61" z="7" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="11.8" y="-81.85" kX="0" kY="0" cX="0.45" cY="0.61" z="7" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-13.45" y="-81.85" kX="0" kY="0" cX="0.45" cY="0.61" z="7" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-38.65" y="-81.85" kX="0" kY="0" cX="0.45" cY="0.61" z="7" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-62.7" y="-78.35" kX="0" kY="0" cX="0.45" cY="0.61" z="7" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.25" y="-53.5" kX="0" kY="0" cX="0.45" cY="0.61" z="7" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.25" y="-28.3" kX="0" kY="0" cX="0.45" cY="0.61" z="7" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.25" y="-3.1" kX="0" kY="0" cX="0.45" cY="0.61" z="7" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.25" y="22.15" kX="0" kY="0" cX="0.45" cY="0.61" z="7" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.25" y="47.35" kX="0" kY="0" cX="0.45" cY="0.61" z="7" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.25" y="72.55" kX="0" kY="0" cX="0.45" cY="0.61" z="7" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-52.3" y="89.35" kX="0" kY="0" cX="0.45" cY="0.61" z="7" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-27.1" y="89.35" kX="0" kY="0" cX="0.45" cY="0.61" z="7" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-1.9" y="89.35" kX="0" kY="0" cX="0.45" cY="0.61" z="7" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="23.35" y="89.35" kX="0" kY="0" cX="0.45" cY="0.61" z="7" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="48.55" y="89.45" kX="0" kY="0" cX="0.45" cY="0.61" z="7" alpha="100" red="100" green="100" blue="100" dI="0" dr="1"/>
+    </b>
+    <b name="Layer 8" sc="1" dl="0">
+     <f x="37.9" y="88.7" kX="0" kY="0" cX="0.31" cY="0.51" z="8" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="61.55" y="84.75" kX="0" kY="0" cX="0.31" cY="0.51" z="8" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.55" y="59.7" kX="0" kY="0" cX="0.31" cY="0.51" z="8" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.55" y="34.5" kX="0" kY="0" cX="0.31" cY="0.51" z="8" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.55" y="9.3" kX="0" kY="0" cX="0.31" cY="0.51" z="8" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.55" y="-15.95" kX="0" kY="0" cX="0.31" cY="0.51" z="8" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.55" y="-41.15" kX="0" kY="0" cX="0.31" cY="0.51" z="8" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.55" y="-66.35" kX="0" kY="0" cX="0.31" cY="0.51" z="8" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="49.65" y="-82.2" kX="0" kY="0" cX="0.31" cY="0.51" z="8" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="24.45" y="-82.2" kX="0" kY="0" cX="0.31" cY="0.51" z="8" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-0.8" y="-82.2" kX="0" kY="0" cX="0.31" cY="0.51" z="8" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-26" y="-82.2" kX="0" kY="0" cX="0.31" cY="0.51" z="8" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-51.2" y="-82.2" kX="0" kY="0" cX="0.31" cY="0.51" z="8" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.25" y="-66.5" kX="0" kY="0" cX="0.31" cY="0.51" z="8" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.25" y="-41.3" kX="0" kY="0" cX="0.31" cY="0.51" z="8" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.25" y="-16.1" kX="0" kY="0" cX="0.31" cY="0.51" z="8" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.25" y="9.15" kX="0" kY="0" cX="0.31" cY="0.51" z="8" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.25" y="34.35" kX="0" kY="0" cX="0.31" cY="0.51" z="8" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.25" y="59.55" kX="0" kY="0" cX="0.31" cY="0.51" z="8" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-63.6" y="84.3" kX="0" kY="0" cX="0.31" cY="0.51" z="8" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-39.75" y="89" kX="0" kY="0" cX="0.31" cY="0.51" z="8" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-14.55" y="89" kX="0" kY="0" cX="0.31" cY="0.51" z="8" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="10.7" y="89" kX="0" kY="0" cX="0.31" cY="0.51" z="8" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="35.9" y="88.7" kX="0" kY="0" cX="0.31" cY="0.51" z="8" alpha="100" red="100" green="100" blue="100" dI="0" dr="1"/>
+    </b>
+    <b name="Layer 9" sc="1" dl="0">
+     <f x="28.45" y="88.8" kX="0" kY="0" cX="0.22" cY="0.36" z="9" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="53.6" y="88.2" kX="0" kY="0" cX="0.22" cY="0.36" z="9" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.65" y="68.55" kX="0" kY="0" cX="0.22" cY="0.36" z="9" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.65" y="43.35" kX="0" kY="0" cX="0.22" cY="0.36" z="9" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.65" y="18.15" kX="0" kY="0" cX="0.22" cY="0.36" z="9" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.65" y="-7.1" kX="0" kY="0" cX="0.22" cY="0.36" z="9" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.65" y="-32.3" kX="0" kY="0" cX="0.22" cY="0.36" z="9" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="63.65" y="-57.5" kX="0" kY="0" cX="0.22" cY="0.36" z="9" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="59.2" y="-81.1" kX="0" kY="0" cX="0.22" cY="0.36" z="9" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="34.1" y="-82.9" kX="0" kY="0" cX="0.22" cY="0.36" z="9" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="8.85" y="-82.9" kX="0" kY="0" cX="0.22" cY="0.36" z="9" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-16.35" y="-82.9" kX="0" kY="0" cX="0.22" cY="0.36" z="9" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-41.55" y="-82.9" kX="0" kY="0" cX="0.22" cY="0.36" z="9" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-64.15" y="-76.8" kX="0" kY="0" cX="0.22" cY="0.36" z="9" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.15" y="-51.55" kX="0" kY="0" cX="0.22" cY="0.36" z="9" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.15" y="-26.35" kX="0" kY="0" cX="0.22" cY="0.36" z="9" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.15" y="-1.1" kX="0" kY="0" cX="0.22" cY="0.36" z="9" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.15" y="24.1" kX="0" kY="0" cX="0.22" cY="0.36" z="9" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.15" y="49.3" kX="0" kY="0" cX="0.22" cY="0.36" z="9" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-65.15" y="74.55" kX="0" kY="0" cX="0.22" cY="0.36" z="9" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-49.2" y="88.3" kX="0" kY="0" cX="0.22" cY="0.36" z="9" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-24" y="88.3" kX="0" kY="0" cX="0.22" cY="0.36" z="9" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="1.25" y="88.3" kX="0" kY="0" cX="0.22" cY="0.36" z="9" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="26.45" y="88.8" kX="0" kY="0" cX="0.22" cY="0.36" z="9" alpha="100" red="100" green="100" blue="100" dI="0" dr="1"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="ChonCo" width="256" height="256">
+  <SubTexture name="chonco copy" pX="12.65" pY="10" width="27" height="23" x="161" y="70"/>
+  <SubTexture name="chonco" pX="32.6" pY="32.1" width="69" height="68" x="161" y="0"/>
+  <SubTexture name="Symbol 1" pX="15.55" pY="14" width="159" height="201" x="0" y="0"/>
+ </TextureAtlas>
+</skeleton>

@@ -1,0 +1,63 @@
+<skeleton name="Explosion" frameRate="24" version="1.4">
+ <armatures>
+  <armature name="normal_destroy">
+   <b name="Layer 1" x="-154.1" y="-148.2" kX="0" kY="0" cX="1" cY="1" z="0" alpha="100" red="100" green="100" blue="100">
+    <d name="Symbol 6"/>
+    <d name="Symbol 7"/>
+    <d name="Symbol 8"/>
+    <d name="Symbol 9"/>
+    <d name="Symbol 10"/>
+    <d name="Symbol 11"/>
+    <d name="Symbol 12"/>
+    <d name="Symbol 13"/>
+    <d name="Symbol 14"/>
+    <d name="Symbol 15"/>
+    <d name="Symbol 16"/>
+    <d name="Symbol 17"/>
+    <d name="Symbol 18"/>
+    <d name="Symbol 22"/>
+    <d name="Symbol 23"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="normal_destroy">
+   <mov name="normal_destroy_skt" dr="15" to="6" drTW="15" lp="0" twE="NaN">
+    <b name="Layer 1" sc="1" dl="0">
+     <f x="-154.1" y="-148.2" kX="0" kY="0" cX="1" cY="1" z="0" alpha="100" red="100" green="100" blue="100" dI="0" dr="1"/>
+     <f x="-154.1" y="-148.2" kX="0" kY="0" cX="1" cY="1" z="0" alpha="100" red="100" green="100" blue="100" dI="1" dr="1"/>
+     <f x="-154.1" y="-148.2" kX="0" kY="0" cX="1" cY="1" z="0" alpha="100" red="100" green="100" blue="100" dI="2" dr="1"/>
+     <f x="-154.1" y="-148.2" kX="0" kY="0" cX="1" cY="1" z="0" alpha="100" red="100" green="100" blue="100" dI="3" dr="1"/>
+     <f x="-154.1" y="-148.2" kX="0" kY="0" cX="1" cY="1" z="0" alpha="100" red="100" green="100" blue="100" dI="4" dr="1"/>
+     <f x="-154.1" y="-148.2" kX="0" kY="0" cX="1" cY="1" z="0" alpha="100" red="100" green="100" blue="100" dI="5" dr="1"/>
+     <f x="-154.1" y="-148.2" kX="0" kY="0" cX="1" cY="1" z="0" alpha="100" red="100" green="100" blue="100" dI="6" dr="1"/>
+     <f x="-154.1" y="-148.2" kX="0" kY="0" cX="1" cY="1" z="0" alpha="100" red="100" green="100" blue="100" dI="7" dr="1"/>
+     <f x="-154.1" y="-148.2" kX="0" kY="0" cX="1" cY="1" z="0" alpha="100" red="100" green="100" blue="100" dI="8" dr="1"/>
+     <f x="-154.1" y="-148.2" kX="0" kY="0" cX="1" cY="1" z="0" alpha="100" red="100" green="100" blue="100" dI="9" dr="1"/>
+     <f x="-154.1" y="-148.2" kX="0" kY="0" cX="1" cY="1" z="0" alpha="100" red="100" green="100" blue="100" dI="10" dr="1"/>
+     <f x="-154.1" y="-148.2" kX="0" kY="0" cX="1" cY="1" z="0" alpha="100" red="100" green="100" blue="100" dI="11" dr="1"/>
+     <f x="-154.1" y="-148.2" kX="0" kY="0" cX="1" cY="1" z="0" alpha="100" red="100" green="100" blue="100" dI="12" dr="1"/>
+     <f x="-154.1" y="-148.2" kX="0" kY="0" cX="1" cY="1" z="0" alpha="100" red="100" green="100" blue="100" dI="13" dr="1"/>
+     <f x="-154.1" y="-148.2" kX="0" kY="0" cX="1" cY="1" z="0" alpha="100" red="100" green="100" blue="100" dI="14" dr="1"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="Explosion" width="2048" height="1024">
+  <SubTexture name="Symbol 23" pX="0" pY="0" width="298" height="293" x="600" y="295"/>
+  <SubTexture name="Symbol 22" pX="0" pY="0" width="298" height="293" x="600" y="0"/>
+  <SubTexture name="Symbol 18" pX="0" pY="0" width="298" height="293" x="300" y="590"/>
+  <SubTexture name="Symbol 17" pX="0" pY="0" width="298" height="293" x="1200" y="0"/>
+  <SubTexture name="Symbol 16" pX="0" pY="0" width="298" height="293" x="1200" y="295"/>
+  <SubTexture name="Symbol 15" pX="0" pY="0" width="298" height="293" x="0" y="295"/>
+  <SubTexture name="Symbol 14" pX="0" pY="0" width="298" height="293" x="600" y="590"/>
+  <SubTexture name="Symbol 13" pX="0" pY="0" width="298" height="293" x="0" y="0"/>
+  <SubTexture name="Symbol 12" pX="0" pY="0" width="298" height="293" x="300" y="0"/>
+  <SubTexture name="Symbol 11" pX="0" pY="0" width="298" height="293" x="900" y="0"/>
+  <SubTexture name="Symbol 10" pX="0" pY="0" width="298" height="293" x="1500" y="0"/>
+  <SubTexture name="Symbol 9" pX="0" pY="0" width="298" height="293" x="300" y="295"/>
+  <SubTexture name="Symbol 8" pX="0" pY="0" width="298" height="293" x="900" y="295"/>
+  <SubTexture name="Symbol 7" pX="0" pY="0" width="298" height="293" x="1500" y="295"/>
+  <SubTexture name="Symbol 6" pX="0" pY="0" width="298" height="293" x="0" y="590"/>
+ </TextureAtlas>
+</skeleton>

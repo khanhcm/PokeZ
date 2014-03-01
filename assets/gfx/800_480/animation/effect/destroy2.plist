@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>Duplicate Items Folder-Symbol 8 copy.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{43,70},{33,34}}</string>
+			<key>offset</key>
+			<string>{-1,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{1,1},{33,34}}</string>
+			<key>sourceSize</key>
+			<string>{36,36}</string>
+		</dict>
+		<key>Symbol 23.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{97,0},{28,27}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{28,27}}</string>
+			<key>sourceSize</key>
+			<string>{28,27}</string>
+		</dict>
+		<key>Symbol 25 copy.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{70,0},{26,58}}</string>
+			<key>offset</key>
+			<string>{-2,2}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{26,15},{26,58}}</string>
+			<key>sourceSize</key>
+			<string>{82,92}</string>
+		</dict>
+		<key>Symbol 25.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,0},{69,69}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,1},{69,69}}</string>
+			<key>sourceSize</key>
+			<string>{69,70}</string>
+		</dict>
+		<key>Symbol 26.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,70},{42,42}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{42,42}}</string>
+			<key>sourceSize</key>
+			<string>{42,42}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>destroy2.png</string>
+		<key>size</key>
+		<string>{128,128}</string>
+		<key>smartupdate</key>
+		<string>{None}</string>
+		<key>textureFileName</key>
+		<string>destroy2.png</string>
+	</dict>
+</dict>
+</plist>

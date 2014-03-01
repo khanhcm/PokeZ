@@ -1,0 +1,35 @@
+<skeleton name="OK_Text" frameRate="24" version="1.4">
+ <armatures>
+  <armature name="oktext_anim">
+   <b name="Layer 17" x="-110.05" y="-63.55" kX="0" kY="0" cX="2.14" cY="2.14" z="0" alpha="0" red="100" green="100" blue="100">
+    <d name="Symbol 16"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="oktext_anim">
+   <mov name="oktext_anim_skt" dr="15" to="6" drTW="15" lp="0" twE="NaN">
+    <b name="Layer 17" sc="1" dl="0">
+     <f x="-110.05" y="-63.55" kX="0" kY="0" cX="2.14" cY="2.14" z="0" alpha="0" red="100" green="100" blue="100" dI="0" dr="1"/>
+     <f x="-110.05" y="-63.55" kX="0" kY="0" cX="2.14" cY="2.14" z="0" alpha="0" red="100" green="100" blue="100" dI="0" dr="1"/>
+     <f x="-110.05" y="-63.55" kX="0" kY="0" cX="2.14" cY="2.14" z="0" alpha="0" red="100" green="100" blue="100" dI="0" dr="1"/>
+     <f x="-110.05" y="-63.55" kX="0" kY="0" cX="2.14" cY="2.14" z="0" alpha="0" red="100" green="100" blue="100" dI="0" dr="1"/>
+     <f x="-110.05" y="-63.55" kX="0" kY="0" cX="2.14" cY="2.14" z="0" alpha="100" red="100" green="100" blue="100" dI="0" dr="1"/>
+     <f x="-79.15" y="-48.3" kX="0" kY="0" cX="1.57" cY="1.57" z="0" alpha="100" red="100" green="100" blue="100" dI="0" dr="1"/>
+     <f x="-48.2" y="-33.15" kX="0" kY="0" cX="1" cY="1" z="0" alpha="100" red="100" green="100" blue="100" dI="0" dr="1"/>
+     <f x="-48.2" y="-33.15" kX="0" kY="0" cX="1" cY="1" z="0" alpha="100" red="100" green="100" blue="100" dI="0" dr="1"/>
+     <f x="-48.2" y="-33.15" kX="0" kY="0" cX="1" cY="1" z="0" alpha="100" red="100" green="100" blue="100" dI="0" dr="1"/>
+     <f x="-48.2" y="-33.15" kX="0" kY="0" cX="1" cY="1" z="0" alpha="100" red="100" green="100" blue="100" dI="0" dr="1"/>
+     <f x="-50.15" y="-34.1" kX="0" kY="0" cX="1.04" cY="1.04" z="0" alpha="96" red="100" green="100" blue="100" dI="0" dr="1"/>
+     <f x="-56" y="-37" kX="0" kY="0" cX="1.14" cY="1.14" z="0" alpha="84" red="100" green="100" blue="100" dI="0" dr="1"/>
+     <f x="-65.8" y="-41.8" kX="0" kY="0" cX="1.32" cY="1.32" z="0" alpha="64" red="100" green="100" blue="100" dI="0" dr="1"/>
+     <f x="-79.55" y="-48.55" kX="0" kY="0" cX="1.58" cY="1.58" z="0" alpha="36" red="100" green="100" blue="100" dI="0" dr="1"/>
+     <f x="-97.15" y="-57.2" kX="0" kY="0" cX="1.9" cY="1.9" z="0" alpha="0" red="100" green="100" blue="100" dI="0" dr="1"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="OK_Text" width="128" height="64">
+  <SubTexture name="Symbol 16" pX="0" pY="0" width="110" height="54" x="0" y="0"/>
+ </TextureAtlas>
+</skeleton>

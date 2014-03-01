@@ -1,0 +1,35 @@
+<skeleton name="YesText" frameRate="24" version="1.4">
+ <armatures>
+  <armature name="yestext_anim">
+   <b name="Layer 17" x="-39.65" y="-29.5" kX="0" kY="0" cX="0.71" cY="0.71" z="0" alpha="0" red="100" green="100" blue="100">
+    <d name="YesFX"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="yestext_anim">
+   <mov name="yestext_anim_skt" dr="15" to="6" drTW="15" lp="0" twE="NaN">
+    <b name="Layer 17" sc="1" dl="0">
+     <f x="-39.65" y="-29.5" kX="0" kY="0" cX="0.71" cY="0.71" z="0" alpha="0" red="100" green="100" blue="100" dI="0" dr="1"/>
+     <f x="-39.65" y="-29.5" kX="0" kY="0" cX="0.71" cY="0.71" z="0" alpha="0" red="100" green="100" blue="100" dI="0" dr="1"/>
+     <f x="-39.65" y="-29.5" kX="0" kY="0" cX="0.71" cY="0.71" z="0" alpha="0" red="100" green="100" blue="100" dI="0" dr="1"/>
+     <f x="-39.65" y="-29.5" kX="0" kY="0" cX="0.71" cY="0.71" z="0" alpha="0" red="100" green="100" blue="100" dI="0" dr="1"/>
+     <f x="-39.65" y="-29.5" kX="0" kY="0" cX="0.71" cY="0.71" z="0" alpha="0" red="100" green="100" blue="100" dI="0" dr="1"/>
+     <f x="-39.65" y="-29.5" kX="0" kY="0" cX="0.71" cY="0.71" z="0" alpha="0" red="100" green="100" blue="100" dI="0" dr="1"/>
+     <f x="-39.65" y="-29.5" kX="0" kY="0" cX="0.71" cY="0.71" z="0" alpha="100" red="100" green="100" blue="100" dI="0" dr="1"/>
+     <f x="-39.65" y="-29.5" kX="0" kY="0" cX="0.71" cY="0.71" z="0" alpha="100" red="100" green="100" blue="100" dI="0" dr="1"/>
+     <f x="-39.65" y="-29.5" kX="0" kY="0" cX="0.71" cY="0.71" z="0" alpha="100" red="100" green="100" blue="100" dI="0" dr="1"/>
+     <f x="-39.65" y="-29.5" kX="0" kY="0" cX="0.71" cY="0.71" z="0" alpha="100" red="100" green="100" blue="100" dI="0" dr="1"/>
+     <f x="-40.45" y="-29.85" kX="0" kY="0" cX="0.73" cY="0.73" z="0" alpha="96" red="100" green="100" blue="100" dI="0" dr="1"/>
+     <f x="-42.8" y="-31.05" kX="0" kY="0" cX="0.77" cY="0.77" z="0" alpha="84" red="100" green="100" blue="100" dI="0" dr="1"/>
+     <f x="-46.7" y="-32.95" kX="0" kY="0" cX="0.84" cY="0.84" z="0" alpha="64" red="100" green="100" blue="100" dI="0" dr="1"/>
+     <f x="-52.15" y="-35.55" kX="0" kY="0" cX="0.94" cY="0.94" z="0" alpha="36" red="100" green="100" blue="100" dI="0" dr="1"/>
+     <f x="-59.2" y="-39.05" kX="0" kY="0" cX="1.07" cY="1.07" z="0" alpha="0" red="100" green="100" blue="100" dI="0" dr="1"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="YesText" width="256" height="128">
+  <SubTexture name="YesFX" pX="31.95" pY="17.75" width="150" height="63" x="0" y="0"/>
+ </TextureAtlas>
+</skeleton>

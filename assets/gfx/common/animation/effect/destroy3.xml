@@ -1,0 +1,42 @@
+<skeleton name="NOLIENKET" frameRate="24" version="1.4">
+ <armatures>
+  <armature name="normal_destroy3">
+   <b name="Layer 1" x="-103" y="-109" kX="0" kY="0" cX="1" cY="1" z="0" alpha="100" red="100" green="100" blue="100">
+    <d name="Symbol 1"/>
+    <d name="Symbol 2"/>
+    <d name="Symbol 3"/>
+    <d name="Symbol 4"/>
+    <d name="Symbol 5"/>
+    <d name="Symbol 6"/>
+    <d name="Symbol 7"/>
+    <d name="Symbol 8"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="normal_destroy3">
+   <mov name="normal_destroy3_skt" dr="8" to="6" drTW="8" lp="0" twE="NaN">
+    <b name="Layer 1" sc="1" dl="0">
+     <f x="-103" y="-109" kX="0" kY="0" cX="1" cY="1" z="0" alpha="100" red="100" green="100" blue="100" dI="0" dr="1"/>
+     <f x="-103" y="-109" kX="0" kY="0" cX="1" cY="1" z="0" alpha="100" red="100" green="100" blue="100" dI="1" dr="1"/>
+     <f x="-103" y="-109" kX="0" kY="0" cX="1" cY="1" z="0" alpha="100" red="100" green="100" blue="100" dI="2" dr="1"/>
+     <f x="-103" y="-109" kX="0" kY="0" cX="1" cY="1" z="0" alpha="100" red="100" green="100" blue="100" dI="3" dr="1"/>
+     <f x="-103" y="-109" kX="0" kY="0" cX="1" cY="1" z="0" alpha="100" red="100" green="100" blue="100" dI="4" dr="1"/>
+     <f x="-103" y="-109" kX="0" kY="0" cX="1" cY="1" z="0" alpha="100" red="100" green="100" blue="100" dI="5" dr="1"/>
+     <f x="-103" y="-109" kX="0" kY="0" cX="1" cY="1" z="0" alpha="100" red="100" green="100" blue="100" dI="6" dr="1"/>
+     <f x="-103" y="-109" kX="0" kY="0" cX="1" cY="1" z="0" alpha="100" red="100" green="100" blue="100" dI="7" dr="1"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="NOLIENKET" width="1024" height="512">
+  <SubTexture name="Symbol 8" pX="0" pY="0" width="206" height="217" x="208" y="0"/>
+  <SubTexture name="Symbol 7" pX="0" pY="0" width="206" height="217" x="416" y="219"/>
+  <SubTexture name="Symbol 6" pX="0" pY="0" width="206" height="217" x="624" y="0"/>
+  <SubTexture name="Symbol 5" pX="0" pY="0" width="206" height="217" x="624" y="219"/>
+  <SubTexture name="Symbol 4" pX="0" pY="0" width="206" height="217" x="0" y="0"/>
+  <SubTexture name="Symbol 3" pX="0" pY="0" width="206" height="217" x="416" y="0"/>
+  <SubTexture name="Symbol 2" pX="0" pY="0" width="206" height="217" x="0" y="219"/>
+  <SubTexture name="Symbol 1" pX="0" pY="0" width="206" height="217" x="208" y="219"/>
+ </TextureAtlas>
+</skeleton>

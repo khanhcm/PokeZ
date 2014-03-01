@@ -1,0 +1,113 @@
+<skeleton name="CongDiem" frameRate="24" version="1.4">
+ <armatures>
+  <armature name="congdiem_anim">
+   <b name="Symbol 13" x="-27.7" y="-102.6" kX="34.36" kY="34.36" cX="1.27" cY="1.27" z="0" alpha="5" red="100" green="100" blue="100">
+    <d name="Symbol 13 copy"/>
+   </b>
+   <b name="Symbol 130" x="-11.9" y="-40.95" kX="34.46" kY="34.46" cX="0.51" cY="0.51" z="0" alpha="0" red="100" green="100" blue="100">
+    <d name="Symbol 13 copy 2"/>
+   </b>
+   <b name="Symbol 131" x="-16.65" y="-16.05" kX="0" kY="0" cX="0.22" cY="0.22" z="0" alpha="0" red="100" green="100" blue="100">
+    <d name="Symbol 13"/>
+   </b>
+   <b name="Symbol 1310" x="-73.4" y="-70.3" kX="0" kY="0" cX="1.08" cY="1.08" z="3" alpha="7" red="100" green="100" blue="100">
+    <d name="Symbol 13"/>
+   </b>
+   <b name="Layer 8" x="-15" y="-23.95" kX="0" kY="0" cX="0.35" cY="0.35" z="1" alpha="100" red="100" green="100" blue="100">
+    <d name="Symbol 14"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="congdiem_anim">
+   <mov name="congdiem_anim_skt" dr="16" to="6" drTW="16" lp="0" twE="NaN">
+    <b name="Symbol 13" sc="1" dl="0">
+     <f dr="3" dI="-1"/>
+     <f x="-27.7" y="-102.6" kX="34.36" kY="34.36" cX="1.27" cY="1.27" z="0" alpha="5" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-28.5" y="-106.25" kX="34.34" kY="34.34" cX="1.31" cY="1.31" z="0" alpha="6" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-29.35" y="-110" kX="34.34" kY="34.34" cX="1.35" cY="1.35" z="0" alpha="7" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-30.15" y="-113.7" kX="34.33" kY="34.33" cX="1.39" cY="1.39" z="0" alpha="7" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-31" y="-117.75" kX="34.34" kY="34.34" cX="1.44" cY="1.44" z="0" alpha="8" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-31.7" y="-120.6" kX="34.33" kY="34.33" cX="1.47" cY="1.47" z="0" alpha="7" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-32.35" y="-123.7" kX="34.33" kY="34.33" cX="1.51" cY="1.51" z="0" alpha="7" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-33.05" y="-126.75" kX="34.33" kY="34.33" cX="1.54" cY="1.54" z="0" alpha="6" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-33.75" y="-129.95" kX="34.34" kY="34.34" cX="1.58" cY="1.58" z="0" alpha="5" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-34.4" y="-133.1" kX="34.34" kY="34.34" cX="1.61" cY="1.61" z="0" alpha="4" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-35.05" y="-136.2" kX="34.34" kY="34.34" cX="1.65" cY="1.65" z="0" alpha="4" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-35.5" y="-139.4" kX="34.36" kY="34.36" cX="1.68" cY="1.68" z="0" alpha="3" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f dr="1" dI="-1"/>
+    </b>
+    <b name="Symbol 130" sc="1" dl="0">
+     <f dr="1" dI="-1"/>
+     <f x="-11.9" y="-40.95" kX="34.46" kY="34.46" cX="0.51" cY="0.51" z="0" alpha="0" red="100" green="100" blue="100" dI="0" twE="0.2" dr="1"/>
+     <f x="-15.65" y="-51.85" kX="34.36" kY="34.36" cX="0.65" cY="0.65" z="0" alpha="6" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-19.05" y="-61.9" kX="34.35" kY="34.35" cX="0.77" cY="0.77" z="1" alpha="11" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-22.15" y="-71.05" kX="34.34" kY="34.34" cX="0.88" cY="0.88" z="1" alpha="16" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-24.85" y="-79.25" kX="34.36" kY="34.36" cX="0.99" cY="0.99" z="1" alpha="20" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-25.2" y="-81.2" kX="34.34" kY="34.34" cX="1.01" cY="1.01" z="1" alpha="18" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-25.6" y="-83.35" kX="34.34" kY="34.34" cX="1.03" cY="1.03" z="1" alpha="16" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-25.85" y="-85.45" kX="34.34" kY="34.34" cX="1.05" cY="1.05" z="1" alpha="14" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-26.15" y="-87.5" kX="34.34" kY="34.34" cX="1.07" cY="1.07" z="1" alpha="12" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-26.45" y="-89.65" kX="34.34" kY="34.34" cX="1.09" cY="1.09" z="1" alpha="10" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-26.85" y="-91.75" kX="34.34" kY="34.34" cX="1.11" cY="1.11" z="1" alpha="8" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-27.15" y="-93.95" kX="34.34" kY="34.34" cX="1.13" cY="1.13" z="1" alpha="6" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-27.4" y="-96" kX="34.34" kY="34.34" cX="1.16" cY="1.16" z="1" alpha="4" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-27.75" y="-98.15" kX="34.34" kY="34.34" cX="1.18" cY="1.18" z="1" alpha="2" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-27.85" y="-100.25" kX="34.36" kY="34.36" cX="1.2" cY="1.2" z="0" alpha="0" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+    </b>
+    <b name="Symbol 131" sc="1" dl="0">
+     <f x="-16.65" y="-16.05" kX="0" kY="0" cX="0.22" cY="0.22" z="0" alpha="0" red="100" green="100" blue="100" dI="0" twE="-0.5" dr="1"/>
+     <f x="-24.7" y="-23.75" kX="0" kY="0" cX="0.34" cY="0.34" z="1" alpha="22" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-36.7" y="-35.3" kX="0" kY="0" cX="0.53" cY="0.53" z="1" alpha="55" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-52.85" y="-50.65" kX="0" kY="0" cX="0.77" cY="0.77" z="2" alpha="100" red="100" green="100" blue="100" dI="0" twE="-1" dr="1"/>
+     <f x="-53.4" y="-51.15" kX="0" kY="0" cX="0.78" cY="0.78" z="2" alpha="98" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-55.15" y="-52.85" kX="0" kY="0" cX="0.81" cY="0.81" z="2" alpha="91" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-57.95" y="-55.55" kX="0" kY="0" cX="0.85" cY="0.85" z="2" alpha="80" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-62" y="-59.4" kX="0" kY="0" cX="0.91" cY="0.91" z="2" alpha="64" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-67.2" y="-64.35" kX="0" kY="0" cX="0.99" cY="0.99" z="2" alpha="45" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-73.4" y="-70.3" kX="0" kY="0" cX="1.08" cY="1.08" z="2" alpha="20" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-67.05" y="-64.15" kX="0" kY="0" cX="0.99" cY="0.99" z="2" alpha="16" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-60.6" y="-58.05" kX="0" kY="0" cX="0.89" cY="0.89" z="2" alpha="13" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-54.2" y="-51.95" kX="0" kY="0" cX="0.79" cY="0.79" z="2" alpha="10" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-47.8" y="-45.85" kX="0" kY="0" cX="0.7" cY="0.7" z="2" alpha="7" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-41.45" y="-39.75" kX="0" kY="0" cX="0.6" cY="0.6" z="2" alpha="4" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-35.15" y="-33.75" kX="0" kY="0" cX="0.5" cY="0.5" z="1" alpha="0" red="100" green="100" blue="100" dI="0" dr="1"/>
+    </b>
+    <b name="Symbol 1310" sc="1" dl="0">
+     <f dr="9" dI="-1"/>
+     <f x="-73.4" y="-70.3" kX="0" kY="0" cX="1.08" cY="1.08" z="3" alpha="7" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-81.1" y="-77.65" kX="0" kY="0" cX="1.2" cY="1.2" z="3" alpha="6" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-88.8" y="-85.05" kX="0" kY="0" cX="1.32" cY="1.32" z="3" alpha="5" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-96.5" y="-92.4" kX="0" kY="0" cX="1.44" cY="1.44" z="3" alpha="5" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-104.2" y="-99.8" kX="0" kY="0" cX="1.56" cY="1.56" z="3" alpha="4" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-111.9" y="-107.2" kX="0" kY="0" cX="1.67" cY="1.67" z="3" alpha="3" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-119.65" y="-114.55" kX="0" kY="0" cX="1.79" cY="1.79" z="2" alpha="2" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+    </b>
+    <b name="Layer 8" sc="1" dl="0">
+     <f x="-15" y="-23.95" kX="0" kY="0" cX="0.35" cY="0.35" z="1" alpha="100" red="100" green="100" blue="100" dI="0" twE="-0.5" dr="1"/>
+     <f x="-22.75" y="-31.65" kX="0" kY="0" cX="0.52" cY="0.52" z="2" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-33.65" y="-42.4" kX="0" kY="0" cX="0.76" cY="0.76" z="2" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-47.65" y="-56.25" kX="0" kY="0" cX="1.07" cY="1.07" z="3" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-64.9" y="-73.25" kX="0" kY="0" cX="1.45" cY="1.45" z="3" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-67.55" y="-75.8" kX="0" kY="0" cX="1.51" cY="1.51" z="3" alpha="87" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-70.1" y="-78.3" kX="0" kY="0" cX="1.56" cY="1.56" z="3" alpha="73" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-72.75" y="-80.85" kX="0" kY="0" cX="1.62" cY="1.62" z="3" alpha="60" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-75.25" y="-83.4" kX="0" kY="0" cX="1.67" cY="1.67" z="3" alpha="46" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-81.5" y="-89.55" kX="0" kY="0" cX="1.81" cY="1.81" z="4" alpha="39" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-87.65" y="-95.7" kX="0" kY="0" cX="1.95" cY="1.95" z="4" alpha="33" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-93.9" y="-101.8" kX="0" kY="0" cX="2.08" cY="2.08" z="4" alpha="26" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-100.1" y="-108" kX="0" kY="0" cX="2.22" cY="2.22" z="4" alpha="19" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-106.3" y="-114.15" kX="0" kY="0" cX="2.36" cY="2.36" z="4" alpha="13" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-112.55" y="-120.3" kX="0" kY="0" cX="2.49" cY="2.49" z="4" alpha="6" red="100" green="100" blue="100" dI="0" twE="-0.31" dr="1"/>
+     <f dr="1" dI="-1"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="CongDiem" width="512" height="1024">
+  <SubTexture name="Symbol 14" pX="0" pY="0" width="91" height="90" x="316" y="114"/>
+  <SubTexture name="Symbol 13" pX="-8.75" pY="-6.4" width="115" height="112" x="316" y="0"/>
+  <SubTexture name="Symbol 13 copy 2" pX="88.3" pY="102.75" width="309" height="309" x="0" y="317"/>
+  <SubTexture name="Symbol 13 copy" pX="92.15" pY="101.55" width="314" height="315" x="0" y="0"/>
+ </TextureAtlas>
+</skeleton>

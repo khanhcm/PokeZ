@@ -1,0 +1,4 @@
+width,height,textureRatio,defaultWidth,defaultHeight,selectScale,limitZoom,null
+int,int,float,float,float,float,float,null
+536,322,0.26,800,480,0.21,0.1,null
+800,480,0.4,800,480,0.3,0.1,null

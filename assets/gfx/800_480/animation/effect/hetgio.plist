@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>Symbol 17.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,0},{317,229}}</string>
+			<key>offset</key>
+			<string>{0,-1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,2},{317,229}}</string>
+			<key>sourceSize</key>
+			<string>{317,231}</string>
+		</dict>
+		<key>Symbol 19.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,678},{255,204}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{255,204}}</string>
+			<key>sourceSize</key>
+			<string>{255,204}</string>
+		</dict>
+		<key>Symbol 20 copy.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,230},{314,221}}</string>
+			<key>offset</key>
+			<string>{0,-5}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,11},{314,221}}</string>
+			<key>sourceSize</key>
+			<string>{314,232}</string>
+		</dict>
+		<key>Symbol 20.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,452},{308,225}}</string>
+			<key>offset</key>
+			<string>{0,-1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,2},{308,225}}</string>
+			<key>sourceSize</key>
+			<string>{308,227}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>hetgio.png</string>
+		<key>size</key>
+		<string>{512,1024}</string>
+		<key>smartupdate</key>
+		<string>{None}</string>
+		<key>textureFileName</key>
+		<string>hetgio.png</string>
+	</dict>
+</dict>
+</plist>

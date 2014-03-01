@@ -1,0 +1,62 @@
+<skeleton name="TimeUp" frameRate="24" version="1.4">
+ <armatures>
+  <armature name="time_anim">
+   <b name="Layer 1" x="-36" y="-59" kX="0" kY="0" cX="1" cY="1" z="0" alpha="9" red="100" green="100" blue="100">
+    <d name="GiotNuoc"/>
+   </b>
+   <b name="Layer 3" x="-51" y="-8" kX="0" kY="0" cX="1" cY="1" z="1" alpha="33" red="100" green="100" blue="100">
+    <d name="GiotNuoc"/>
+   </b>
+   <b name="Layer 4" x="30" y="-3" kX="0" kY="0" cX="1" cY="1" z="2" alpha="89" red="100" green="100" blue="100">
+    <d name="GiotNuoc"/>
+   </b>
+   <b name="Layer 9" x="10" y="-35" kX="0" kY="0" cX="1" cY="1" z="3" alpha="61" red="100" green="100" blue="100">
+    <d name="GiotNuoc"/>
+   </b>
+   <b name="Layer 10" x="-19" y="-18.85" kX="0" kY="0" cX="1" cY="1" z="4" alpha="55" red="100" green="100" blue="100">
+    <d name="GiotNuoc"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="time_anim">
+   <mov name="time_anim_skt" dr="17" to="6" drTW="17" lp="1" twE="NaN">
+    <b name="Layer 1" sc="1" dl="0">
+     <f x="-36" y="-59" kX="0" kY="0" cX="1" cY="1" z="0" alpha="9" red="100" green="100" blue="100" dI="0" twE="0" dr="7"/>
+     <f x="-36" y="-17" kX="0" kY="0" cX="1" cY="1" z="0" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="9"/>
+     <f x="-36" y="17" kX="0" kY="0" cX="1" cY="1" z="0" alpha="0" red="100" green="100" blue="100" dI="0" dr="1"/>
+    </b>
+    <b name="Layer 3" sc="1" dl="0">
+     <f x="-51" y="-8" kX="0" kY="0" cX="1" cY="1" z="1" alpha="33" red="100" green="100" blue="100" dI="0" twE="0" dr="3"/>
+     <f x="-51" y="3.35" kX="0" kY="0" cX="1" cY="1" z="1" alpha="0" red="100" green="100" blue="100" dI="0" dr="1"/>
+     <f x="-51" y="-72.65" kX="0" kY="0" cX="1" cY="1" z="1" alpha="9" red="100" green="100" blue="100" dI="0" twE="0" dr="7"/>
+     <f x="-51" y="-30.65" kX="0" kY="0" cX="1" cY="1" z="1" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="5"/>
+     <f x="-51" y="-11.8" kX="0" kY="0" cX="1" cY="1" z="1" alpha="45" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+    </b>
+    <b name="Layer 4" sc="1" dl="0">
+     <f x="30" y="-3" kX="0" kY="0" cX="1" cY="1" z="2" alpha="89" red="100" green="100" blue="100" dI="0" twE="0" dr="8"/>
+     <f x="30" y="27.2" kX="0" kY="0" cX="1" cY="1" z="2" alpha="0" red="100" green="100" blue="100" dI="0" dr="1"/>
+     <f x="30" y="-48.8" kX="0" kY="0" cX="1" cY="1" z="2" alpha="9" red="100" green="100" blue="100" dI="0" twE="0" dr="7"/>
+     <f x="30" y="-6.8" kX="0" kY="0" cX="1" cY="1" z="2" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+    </b>
+    <b name="Layer 9" sc="1" dl="0">
+     <f x="10" y="-35" kX="0" kY="0" cX="1" cY="1" z="3" alpha="61" red="100" green="100" blue="100" dI="0" twE="0" dr="3"/>
+     <f x="10" y="-17" kX="0" kY="0" cX="1" cY="1" z="3" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="9"/>
+     <f x="10" y="17" kX="0" kY="0" cX="1" cY="1" z="3" alpha="0" red="100" green="100" blue="100" dI="0" dr="1"/>
+     <f x="10" y="-59" kX="0" kY="0" cX="1" cY="1" z="3" alpha="9" red="100" green="100" blue="100" dI="0" twE="0" dr="3"/>
+     <f x="10" y="-41" kX="0" kY="0" cX="1" cY="1" z="3" alpha="48" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+    </b>
+    <b name="Layer 10" sc="1" dl="0">
+     <f x="-19" y="-18.85" kX="0" kY="0" cX="1" cY="1" z="4" alpha="55" red="100" green="100" blue="100" dI="0" twE="0" dr="5"/>
+     <f x="-19" y="0" kX="0" kY="0" cX="1" cY="1" z="4" alpha="0" red="100" green="100" blue="100" dI="0" dr="1"/>
+     <f x="-19" y="-76" kX="0" kY="0" cX="1" cY="1" z="4" alpha="9" red="100" green="100" blue="100" dI="0" twE="0" dr="7"/>
+     <f x="-19" y="-34" kX="0" kY="0" cX="1" cY="1" z="4" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="3"/>
+     <f x="-19" y="-22.65" kX="0" kY="0" cX="1" cY="1" z="4" alpha="67" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="TimeUp" width="32" height="64">
+  <SubTexture name="GiotNuoc" pX="0" pY="0" width="17" height="38" x="0" y="0"/>
+ </TextureAtlas>
+</skeleton>

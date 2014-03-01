@@ -1,0 +1,122 @@
+<skeleton name="KyLuc_scale" frameRate="24" version="1.4">
+ <armatures>
+  <armature name="kyluc1_anim">
+   <b name="Tai2" x="-78.7" y="-115.7" kX="-4.03" kY="-3.65" cX="1" cY="0.97" z="0" alpha="100" red="100" green="100" blue="100">
+    <d name="Tai2"/>
+   </b>
+   <b name="Tai20" x="95.15" y="-120.2" kX="-6.3" kY="180" cX="1" cY="0.98" z="1" alpha="100" red="100" green="100" blue="100">
+    <d name="Tai2"/>
+   </b>
+   <b name="Body" x="-22.75" y="11.75" kX="-1.26" kY="0" cX="1" cY="0.97" z="2" alpha="100" red="100" green="100" blue="100">
+    <d name="Body"/>
+   </b>
+   <b name="Tay" x="218.65" y="-23.7" kX="-26.16" kY="154.19" cX="1" cY="0.97" z="3" alpha="100" red="100" green="100" blue="100">
+    <d name="Tay"/>
+   </b>
+   <b name="Tay0" x="-191.05" y="-19.65" kX="-18.94" kY="-18.94" cX="1" cY="1" z="4" alpha="100" red="100" green="100" blue="100">
+    <d name="Tay"/>
+   </b>
+   <b name="mat2" x="11.25" y="-105.3" kX="-1" kY="0" cX="1.05" cY="1.06" z="5" alpha="100" red="100" green="100" blue="100">
+    <d name="mat2"/>
+   </b>
+   <b name="mat20" x="11.5" y="-105.3" kX="-1" kY="180" cX="1.05" cY="1.06" z="6" alpha="100" red="100" green="100" blue="100">
+    <d name="mat2"/>
+   </b>
+   <b name="mat21" x="39.55" y="-113.6" kX="0" kY="0" cX="1.05" cY="1.09" z="6" alpha="100" red="100" green="100" blue="100">
+    <d name="mat2 copy"/>
+   </b>
+   <b name="Body copy" x="14.6" y="-65.85" kX="-1" kY="0" cX="1" cY="0.97" z="7" alpha="100" red="100" green="100" blue="100">
+    <d name="Body copy"/>
+   </b>
+   <b name="Cao_Duoi" x="-233.1" y="109.05" kX="-6.2" kY="-6.2" cX="1" cY="1" z="8" alpha="100" red="100" green="100" blue="100">
+    <d name="Cao_Duoi"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="kyluc1_anim">
+   <mov name="kyluc1_anim_skt" dr="17" to="6" drTW="17" lp="1" twE="NaN">
+    <b name="Tai2" sc="1" dl="0">
+     <f x="-78.7" y="-115.7" kX="-4.03" kY="-3.65" cX="1" cY="0.97" z="0" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="4"/>
+     <f x="-70.65" y="-130.95" kX="0" kY="0" cX="1" cY="1" z="0" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="4"/>
+     <f x="-50.35" y="-106.55" kX="4.01" kY="2.64" cX="1" cY="0.97" z="0" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="4"/>
+     <f x="-70.65" y="-130.95" kX="0" kY="0" cX="1" cY="1" z="0" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="4"/>
+     <f x="-78.7" y="-115.7" kX="-4.03" kY="-3.65" cX="1" cY="0.97" z="0" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+    </b>
+    <b name="Tai20" sc="1" dl="0">
+     <f x="95.15" y="-120.2" kX="-6.3" kY="180" cX="1" cY="0.98" z="1" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="4"/>
+     <f x="105.2" y="-130.95" kX="0" kY="180" cX="1" cY="1" z="1" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="4"/>
+     <f x="123.65" y="-113.75" kX="1.65" kY="-174.74" cX="1" cY="0.97" z="1" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="4"/>
+     <f x="105.2" y="-130.95" kX="0" kY="180" cX="1" cY="1" z="1" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="4"/>
+     <f x="95.15" y="-120.2" kX="-6.3" kY="180" cX="1" cY="0.98" z="1" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+    </b>
+    <b name="Body" sc="1" dl="0">
+     <f x="-22.75" y="11.75" kX="-1.26" kY="0" cX="1" cY="0.97" z="2" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="4"/>
+     <f x="-17.95" y="5.05" kX="0" kY="0" cX="1" cY="1" z="2" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="4"/>
+     <f x="-6.55" y="11.75" kX="2.98" kY="0" cX="1" cY="0.97" z="2" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="4"/>
+     <f x="-17.95" y="5.05" kX="0" kY="0" cX="1" cY="1" z="2" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="4"/>
+     <f x="-22.75" y="11.75" kX="-1.26" kY="0" cX="1" cY="0.97" z="2" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+    </b>
+    <b name="Tay" sc="1" dl="0">
+     <f x="218.65" y="-23.7" kX="-26.16" kY="154.19" cX="1" cY="0.97" z="3" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="4"/>
+     <f x="222.05" y="-23.85" kX="9.33" kY="-170.32" cX="1" cY="0.97" z="3" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="4"/>
+     <f x="237.45" y="-23.7" kX="-22.64" kY="154.97" cX="1.03" cY="0.94" z="3" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="4"/>
+     <f x="222.05" y="-23.85" kX="9.33" kY="-170.32" cX="1" cY="0.97" z="3" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="4"/>
+     <f x="218.65" y="-23.7" kX="-26.16" kY="154.19" cX="1" cY="0.97" z="3" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+    </b>
+    <b name="Tay0" sc="1" dl="0">
+     <f x="-191.05" y="-19.65" kX="-18.94" kY="-18.94" cX="1" cY="1" z="4" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="4"/>
+     <f x="-191.15" y="-20" kX="2.51" kY="2.51" cX="1" cY="1" z="4" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="4"/>
+     <f x="-173.3" y="-16.85" kX="24.15" kY="20.71" cX="1.02" cY="0.98" z="4" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="4"/>
+     <f x="-191.15" y="-20" kX="2.51" kY="2.51" cX="1" cY="1" z="4" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="4"/>
+     <f x="-191.05" y="-19.65" kX="-18.94" kY="-18.94" cX="1" cY="1" z="4" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+    </b>
+    <b name="mat2" sc="1" dl="0">
+     <f x="11.25" y="-105.3" kX="-1" kY="0" cX="1.05" cY="1.06" z="5" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="4"/>
+     <f x="17.1" y="-115.6" kX="0" kY="0" cX="1.05" cY="1.09" z="5" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="4"/>
+     <f x="36.1" y="-105.3" kX="3.24" kY="0" cX="1.05" cY="1.06" z="5" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="4"/>
+     <f x="17.1" y="-115.6" kX="0" kY="0" cX="1.05" cY="1.09" z="5" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="4"/>
+     <f x="11.25" y="-105.3" kX="-1" kY="0" cX="1.05" cY="1.06" z="5" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+    </b>
+    <b name="mat20" sc="1" dl="0">
+     <f x="11.5" y="-105.3" kX="-1" kY="180" cX="1.05" cY="1.06" z="6" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="4"/>
+     <f x="17.35" y="-115.6" kX="0" kY="180" cX="1.05" cY="1.09" z="6" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="17.35" y="-115.6" kX="-16.66" kY="163.34" cX="1.05" cY="0.58" z="6" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f dr="2" dI="-1"/>
+     <f x="36.35" y="-105.3" kX="3.24" kY="180" cX="1.05" cY="1.06" z="6" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="4"/>
+     <f x="17.35" y="-115.6" kX="0" kY="180" cX="1.05" cY="1.09" z="6" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="4"/>
+     <f x="11.5" y="-105.3" kX="-1" kY="180" cX="1.05" cY="1.06" z="6" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+    </b>
+    <b name="mat21" sc="1" dl="0">
+     <f dr="6" dI="-1"/>
+     <f x="39.55" y="-113.6" kX="0" kY="0" cX="1.05" cY="1.09" z="6" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="45.55" y="-105.6" kX="0" kY="0" cX="1.05" cY="1.09" z="6" alpha="100" red="100" green="100" blue="100" dI="0" dr="1"/>
+     <f dr="9" dI="-1"/>
+    </b>
+    <b name="Body copy" sc="1" dl="0">
+     <f x="14.6" y="-65.85" kX="-1" kY="0" cX="1" cY="0.97" z="7" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="4"/>
+     <f x="19.8" y="-74.95" kX="0" kY="0" cX="1" cY="1" z="7" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="4"/>
+     <f x="36.55" y="-65.85" kX="3.24" kY="0" cX="1" cY="0.97" z="7" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="4"/>
+     <f x="19.8" y="-74.95" kX="0" kY="0" cX="1" cY="1" z="7" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="4"/>
+     <f x="14.6" y="-65.85" kX="-1" kY="0" cX="1" cY="0.97" z="7" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+    </b>
+    <b name="Cao_Duoi" sc="1" dl="0">
+     <f x="-233.1" y="109.05" kX="-6.2" kY="-6.2" cX="1" cY="1" z="8" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="4"/>
+     <f x="-239.7" y="111.95" kX="-10.42" kY="-10.42" cX="1" cY="1" z="8" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="4"/>
+     <f x="-234.6" y="108.7" kX="-8.27" kY="-4.89" cX="1" cY="1" z="8" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="4"/>
+     <f x="-239.7" y="111.95" kX="-10.42" kY="-10.42" cX="1" cY="1" z="8" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="4"/>
+     <f x="-233.1" y="109.05" kX="-6.2" kY="-6.2" cX="1" cY="1" z="8" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="Cao" width="1024" height="512">
+  <SubTexture name="Cao_Duoi" pX="99.8" pY="110.15" width="200" height="221" x="522" y="0"/>
+  <SubTexture name="Body copy" pX="101.25" pY="60.95" width="201" height="181" x="724" y="0"/>
+  <SubTexture name="mat2 copy" pX="-13.1" pY="59.65" width="77" height="65" x="927" y="95"/>
+  <SubTexture name="mat2" pX="127.45" pY="68.95" width="115" height="127" x="879" y="183"/>
+  <SubTexture name="Tay" pX="77.35" pY="50" width="95" height="93" x="927" y="0"/>
+  <SubTexture name="Body" pX="252.15" pY="233.6" width="520" height="460" x="0" y="0"/>
+  <SubTexture name="Tai2" pX="82.35" pY="111.7" width="153" height="156" x="724" y="183"/>
+ </TextureAtlas>
+</skeleton>

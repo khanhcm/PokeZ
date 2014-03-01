@@ -1,0 +1,33 @@
+<skeleton name="LenCap_scale" frameRate="24" version="1.4">
+ <armatures>
+  <armature name="levelup_anim">
+   <b name="2g.png" x="-313.75" y="-67.2" kX="0" kY="0" cX="1" cY="1" z="0" alpha="100" red="100" green="100" blue="100">
+    <d name="Symbol 8"/>
+   </b>
+   <b name="2h.png" x="-383.65" y="-120.2" kX="0" kY="0" cX="1.55" cY="1.55" z="1" alpha="10" red="100" green="100" blue="100">
+    <d name="Symbol 2"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="levelup_anim">
+   <mov name="levelup_anim_skt" dr="17" to="6" drTW="17" lp="0" twE="NaN">
+    <b name="2g.png" sc="1" dl="0">
+     <f x="-313.75" y="-67.2" kX="0" kY="0" cX="1" cY="1" z="0" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="16"/>
+     <f x="-313.75" y="-67.2" kX="0" kY="0" cX="1" cY="1" z="0" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+    </b>
+    <b name="2h.png" sc="1" dl="0">
+     <f x="-383.65" y="-120.2" kX="0" kY="0" cX="1.55" cY="1.55" z="1" alpha="10" red="100" green="100" blue="100" dI="0" twE="0" dr="4"/>
+     <f x="-259.85" y="-81.1" kX="0" kY="0" cX="1.04" cY="1.04" z="1" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="2"/>
+     <f x="-297.55" y="-93" kX="0" kY="0" cX="1.2" cY="1.2" z="1" alpha="89" red="100" green="100" blue="100" dI="0" twE="0" dr="2"/>
+     <f x="-290.85" y="-90.9" kX="0" kY="0" cX="1.17" cY="1.17" z="1" alpha="78" red="100" green="100" blue="100" dI="0" twE="0" dr="8"/>
+     <f x="-290.85" y="-90.9" kX="0" kY="0" cX="1.17" cY="1.17" z="1" alpha="78" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="LenCap_scale" width="2048" height="512">
+  <SubTexture name="Symbol 2" pX="153" pY="57.5" width="796" height="299" x="1049" y="0"/>
+  <SubTexture name="Symbol 8" pX="201" pY="79" width="1047" height="411" x="0" y="0"/>
+ </TextureAtlas>
+</skeleton>

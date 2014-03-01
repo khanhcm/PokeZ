@@ -1,0 +1,25 @@
+<skeleton name="cc" frameRate="24" version="1.4">
+ <armatures>
+  <armature name="5_anim">
+   <b name="Layer 1" x="-0.5" y="0" kX="0" kY="0" cX="1" cY="1" z="0" alpha="100" red="100" green="100" blue="100">
+    <d name="cc"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="5_anim">
+   <mov name="5_anim_skt" dr="19" to="6" drTW="19" lp="1" twE="NaN">
+    <b name="Layer 1" sc="1" dl="0">
+     <f x="-0.5" y="0" kX="0" kY="0" cX="1" cY="1" z="0" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="4"/>
+     <f x="-0.5" y="0" kX="76.34" kY="76.34" cX="1" cY="1" z="0" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="5"/>
+     <f x="-0.5" y="0" kX="169.53" kY="169.53" cX="1" cY="1" z="0" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="5"/>
+     <f x="-0.5" y="0" kX="-97.5" kY="-97.5" cX="1" cY="1" z="0" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="4"/>
+     <f x="-0.5" y="0" kX="-16.73" kY="-16.73" cX="1" cY="1" z="0" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="cc" width="128" height="128">
+  <SubTexture name="cc" pX="43.5" pY="45" width="87" height="90" x="0" y="0"/>
+ </TextureAtlas>
+</skeleton>

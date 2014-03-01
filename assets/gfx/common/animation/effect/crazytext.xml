@@ -1,0 +1,35 @@
+<skeleton name="CRAZY_Text" frameRate="24" version="1.4">
+ <armatures>
+  <armature name="crazytext_anim">
+   <b name="Layer 17" x="-110.05" y="-63.55" kX="0" kY="0" cX="2.14" cY="2.14" z="0" alpha="0" red="100" green="100" blue="100">
+    <d name="CrazyFx"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="crazytext_anim">
+   <mov name="crazytext_anim_skt" dr="15" to="6" drTW="15" lp="0" twE="NaN">
+    <b name="Layer 17" sc="1" dl="0">
+     <f x="-110.05" y="-63.55" kX="0" kY="0" cX="2.14" cY="2.14" z="0" alpha="0" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-110.05" y="-63.55" kX="0" kY="0" cX="2.14" cY="2.14" z="0" alpha="0" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-110.05" y="-63.55" kX="0" kY="0" cX="2.14" cY="2.14" z="0" alpha="0" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-110.05" y="-63.55" kX="0" kY="0" cX="2.14" cY="2.14" z="0" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-79.15" y="-48.3" kX="0" kY="0" cX="1.57" cY="1.57" z="0" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-48.2" y="-33.15" kX="0" kY="0" cX="1" cY="1" z="0" alpha="100" red="100" green="100" blue="100" dI="0" dr="1"/>
+     <f x="-48.2" y="-33.15" kX="0" kY="0" cX="1" cY="1" z="0" alpha="100" red="100" green="100" blue="100" dI="0" dr="1"/>
+     <f x="-48.2" y="-33.15" kX="0" kY="0" cX="1" cY="1" z="0" alpha="100" red="100" green="100" blue="100" dI="0" dr="1"/>
+     <f x="-48.2" y="-33.15" kX="0" kY="0" cX="1" cY="1" z="0" alpha="100" red="100" green="100" blue="100" dI="0" dr="1"/>
+     <f x="-48.2" y="-33.15" kX="0" kY="0" cX="1" cY="1" z="0" alpha="100" red="100" green="100" blue="100" dI="0" twE="-1" dr="1"/>
+     <f x="-48.95" y="-33.5" kX="0" kY="0" cX="1.01" cY="1.01" z="0" alpha="96" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-51.15" y="-34.6" kX="0" kY="0" cX="1.05" cY="1.05" z="0" alpha="84" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-54.8" y="-36.4" kX="0" kY="0" cX="1.12" cY="1.12" z="0" alpha="64" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-59.9" y="-38.95" kX="0" kY="0" cX="1.22" cY="1.22" z="0" alpha="36" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f x="-66.5" y="-42.15" kX="0" kY="0" cX="1.34" cY="1.34" z="0" alpha="0" red="100" green="100" blue="100" dI="0" dr="1"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="Untitled-7" width="256" height="64">
+  <SubTexture name="CrazyFx" pX="39.5" pY="0" width="165" height="58" x="0" y="0"/>
+ </TextureAtlas>
+</skeleton>

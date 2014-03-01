@@ -1,0 +1,80 @@
+<skeleton name="SaoBang" frameRate="24" version="1.4">
+ <armatures>
+  <armature name="saobang_anim">
+   <b name="Layer 90" x="742.8" y="-880.2" kX="7.51" kY="4.4" cX="0.98" cY="0.97" z="0" alpha="100" red="100" green="100" blue="100">
+    <d name="Duplicate Items Folder-Symbol 6 copy"/>
+   </b>
+   <b name="Layer 100" x="718.2" y="-814.6" kX="-147.75" kY="-147.38" cX="1.45" cY="1.47" z="1" alpha="100" red="100" green="100" blue="100">
+    <d name="saodvfvf"/>
+   </b>
+   <b name="Layer 900" x="1083.8" y="-519.8" kX="13.73" kY="10.63" cX="0.98" cY="0.97" z="2" alpha="100" red="100" green="100" blue="100">
+    <d name="Duplicate Items Folder-Symbol 6 copy"/>
+   </b>
+   <b name="Layer 1000" x="1068.8" y="-457.6" kX="-147.75" kY="-147.38" cX="1.45" cY="1.47" z="3" alpha="100" red="100" green="100" blue="100">
+    <d name="saodvfvf"/>
+   </b>
+   <b name="Layer 901" x="766.55" y="-846.35" kX="13.73" kY="10.63" cX="0.98" cY="0.97" z="0" alpha="100" red="100" green="100" blue="100">
+    <d name="Duplicate Items Folder-Symbol 6 copy"/>
+   </b>
+   <b name="Layer 1001" x="750.65" y="-787.4" kX="-147.75" kY="-147.38" cX="1.45" cY="1.47" z="1" alpha="100" red="100" green="100" blue="100">
+    <d name="saodvfvf"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="saobang_anim">
+   <mov name="saobang_anim_skt" dr="126" to="6" drTW="126" lp="1" twE="NaN">
+    <b name="Layer 90" sc="1" dl="0">
+     <f dr="39" dI="-1"/>
+     <f x="742.8" y="-880.2" kX="7.51" kY="4.4" cX="0.98" cY="0.97" z="0" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="40"/>
+     <f x="-827.2" y="-203.55" kX="2.49" kY="-0.61" cX="0.98" cY="0.97" z="0" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="7"/>
+     <f x="-831.2" y="-202.15" kX="2.49" kY="-0.61" cX="0.98" cY="0.97" z="0" alpha="0" red="100" green="100" blue="100" dI="0" dr="1"/>
+     <f dr="39" dI="-1"/>
+    </b>
+    <b name="Layer 100" sc="1" dl="0">
+     <f dr="39" dI="-1"/>
+     <f x="718.2" y="-814.6" kX="-147.75" kY="-147.38" cX="1.45" cY="1.47" z="1" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="40"/>
+     <f x="-856.6" y="-127.35" kX="-161.48" kY="-161.12" cX="1.45" cY="1.47" z="1" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="7"/>
+     <f x="-856.6" y="-127.35" kX="-161.48" kY="-161.12" cX="1.45" cY="1.47" z="0" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="7"/>
+     <f x="-883.55" y="-136.45" kX="-64.72" kY="-64.35" cX="1.45" cY="1.47" z="0" alpha="70" red="100" green="100" blue="100" dI="0" twE="0" dr="7"/>
+     <f x="-873.35" y="-161.4" kX="25.32" kY="25.68" cX="1.45" cY="1.47" z="0" alpha="50" red="100" green="100" blue="100" dI="0" twE="0" dr="7"/>
+     <f x="-856.45" y="-160.4" kX="78.01" kY="78.38" cX="1.45" cY="1.47" z="0" alpha="10" red="100" green="100" blue="100" dI="0" dr="1"/>
+     <f dr="18" dI="-1"/>
+    </b>
+    <b name="Layer 900" sc="1" dl="0">
+     <f x="1083.8" y="-519.8" kX="13.73" kY="10.63" cX="0.98" cY="0.97" z="2" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="40"/>
+     <f x="212.2" y="-139.65" kX="0" kY="-3.1" cX="0.98" cY="0.97" z="2" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="7"/>
+     <f x="208.2" y="-138.15" kX="0" kY="-3.1" cX="0.98" cY="0.97" z="2" alpha="0" red="100" green="100" blue="100" dI="0" dr="1"/>
+     <f dr="78" dI="-1"/>
+    </b>
+    <b name="Layer 1000" sc="1" dl="0">
+     <f x="1068.8" y="-457.6" kX="-147.75" kY="-147.38" cX="1.45" cY="1.47" z="3" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="40"/>
+     <f x="212.7" y="-74.15" kX="-161.48" kY="-161.12" cX="1.45" cY="1.47" z="3" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="7"/>
+     <f x="212.7" y="-74.15" kX="-161.48" kY="-161.12" cX="1.45" cY="1.47" z="2" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="7"/>
+     <f x="185.75" y="-83.25" kX="-64.72" kY="-64.35" cX="1.45" cY="1.47" z="2" alpha="70" red="100" green="100" blue="100" dI="0" twE="0" dr="7"/>
+     <f x="195.95" y="-108.2" kX="25.32" kY="25.68" cX="1.45" cY="1.47" z="2" alpha="50" red="100" green="100" blue="100" dI="0" twE="0" dr="7"/>
+     <f x="212.85" y="-107.2" kX="78.01" kY="78.38" cX="1.45" cY="1.47" z="2" alpha="10" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+     <f dr="57" dI="-1"/>
+    </b>
+    <b name="Layer 901" sc="1" dl="0">
+     <f dr="69" dI="-1"/>
+     <f x="766.55" y="-846.35" kX="13.73" kY="10.63" cX="0.98" cY="0.97" z="0" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="40"/>
+     <f x="-36.3" y="-489.25" kX="0" kY="-3.1" cX="0.98" cY="0.97" z="0" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="7"/>
+     <f x="-40.3" y="-487.75" kX="0" kY="-3.1" cX="0.98" cY="0.97" z="0" alpha="0" red="100" green="100" blue="100" dI="0" dr="1"/>
+     <f dr="9" dI="-1"/>
+    </b>
+    <b name="Layer 1001" sc="1" dl="0">
+     <f dr="69" dI="-1"/>
+     <f x="750.65" y="-787.4" kX="-147.75" kY="-147.38" cX="1.45" cY="1.47" z="1" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="40"/>
+     <f x="-39.45" y="-418.75" kX="-161.48" kY="-161.12" cX="1.45" cY="1.47" z="1" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="7"/>
+     <f x="-39.45" y="-418.75" kX="-161.48" kY="-161.12" cX="1.45" cY="1.47" z="0" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="7"/>
+     <f x="-66.4" y="-427.85" kX="-64.72" kY="-64.35" cX="1.45" cY="1.47" z="0" alpha="70" red="100" green="100" blue="100" dI="0" twE="0" dr="3"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="SaoBang" width="512" height="256">
+  <SubTexture name="saodvfvf" pX="19.35" pY="20.15" width="62" height="61" x="333" y="0"/>
+  <SubTexture name="Duplicate Items Folder-Symbol 6 copy" pX="18.1" pY="127.85" width="331" height="246" x="0" y="0"/>
+ </TextureAtlas>
+</skeleton>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>Symbol 13 copy 2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,67},{65,65}}</string>
+			<key>offset</key>
+			<string>{-1,1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{29,29},{65,65}}</string>
+			<key>sourceSize</key>
+			<string>{124,124}</string>
+		</dict>
+		<key>Symbol 13 copy.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{0,0},{67,66}}</string>
+			<key>offset</key>
+			<string>{-1,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{29,30},{67,66}}</string>
+			<key>sourceSize</key>
+			<string>{126,126}</string>
+		</dict>
+		<key>Symbol 13.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{68,55},{53,51}}</string>
+			<key>offset</key>
+			<string>{-1,1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2,2},{53,51}}</string>
+			<key>sourceSize</key>
+			<string>{58,56}</string>
+		</dict>
+		<key>Symbol 14 copy.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{68,0},{54,55}}</string>
+			<key>offset</key>
+			<string>{-1,2}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{4,3},{54,55}}</string>
+			<key>sourceSize</key>
+			<string>{64,64}</string>
+		</dict>
+		<key>Symbol 14.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{68,107},{33,34}}</string>
+			<key>offset</key>
+			<string>{-1,0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{1,1},{33,34}}</string>
+			<key>sourceSize</key>
+			<string>{36,36}</string>
+		</dict>
+		<key>Txt1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{103,133},{154,9}}</string>
+			<key>offset</key>
+			<string>{2,1}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{14,1},{154,9}}</string>
+			<key>sourceSize</key>
+			<string>{179,12}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>niceanim.png</string>
+		<key>size</key>
+		<string>{128,512}</string>
+		<key>smartupdate</key>
+		<string>{None}</string>
+		<key>textureFileName</key>
+		<string>niceanim.png</string>
+	</dict>
+</dict>
+</plist>

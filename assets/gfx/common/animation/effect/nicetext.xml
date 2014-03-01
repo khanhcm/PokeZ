@@ -1,0 +1,26 @@
+<skeleton name="NICE_Text" frameRate="24" version="1.4">
+ <armatures>
+  <armature name="nicetext_anim">
+   <b name="Layer 17" x="-42.4" y="-15.7" kX="0" kY="0" cX="0.77" cY="0.77" z="0" alpha="0" red="100" green="100" blue="100">
+    <d name="NiceFx"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="nicetext_anim">
+   <mov name="nicetext_anim_skt" dr="15" to="6" drTW="15" lp="0" twE="NaN">
+    <b name="Layer 17" sc="1" dl="0">
+     <f x="-42.4" y="-15.7" kX="0" kY="0" cX="0.77" cY="0.77" z="0" alpha="0" red="100" green="100" blue="100" dI="0" twE="0" dr="2"/>
+     <f x="-42.4" y="-15.7" kX="0" kY="0" cX="0.77" cY="0.77" z="0" alpha="0" red="100" green="100" blue="100" dI="0" twE="0" dr="3"/>
+     <f x="-48.75" y="-18.8" kX="0" kY="0" cX="0.89" cY="0.89" z="0" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="3"/>
+     <f x="-55.1" y="-21.95" kX="0" kY="0" cX="1" cY="1" z="0" alpha="100" red="100" green="100" blue="100" dI="0" twE="0" dr="3"/>
+     <f x="-63" y="-23.2" kX="0" kY="0" cX="1.15" cY="1.05" z="0" alpha="67" red="100" green="100" blue="100" dI="0" twE="0" dr="3"/>
+     <f x="-78.75" y="-25.55" kX="0" kY="0" cX="1.44" cY="1.14" z="0" alpha="0" red="100" green="100" blue="100" dI="0" twE="0" dr="1"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="OK_Text" width="256" height="128">
+  <SubTexture name="NiceFx" pX="31.95" pY="17.75" width="173" height="63" x="0" y="0"/>
+ </TextureAtlas>
+</skeleton>
