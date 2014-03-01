@@ -94,10 +94,10 @@ public class MainGame extends SimpleBaseGameActivity{
 	    
 	    
 	    arrBoxItemSprite = new Sprite[gameMatrix.get_rows()][gameMatrix.get_cols()]; 
-	    for (int i = 0; i < 3; i++)
-	    	for (int j = 0; j< 3  ; j++){
-	    		arrBoxItemSprite[i][j] = new Sprite(0,0,arrBoxItemTextureRegion[gameMatrix.getMatrix()[i][j]],this.getVertexBufferObjectManager());
-	    		arrBoxItemSprite[i][j].setPosition(100+(58.0f*i),72.0f*j);
+	    for (int i = 0; i < gameMatrix.get_rows(); i++)
+	    	for (int j = 0; j < gameMatrix.get_cols(); j++){
+	    		arrBoxItemSprite[i][j] = new Sprite(0,0,arrBoxItemTextureRegion[gameMatrix.getMatrix()[i][j]-1],this.getVertexBufferObjectManager());
+	    		arrBoxItemSprite[i][j].setPosition(100+(58.0f*j),72.0f*i);
 	    		scene.attachChild(arrBoxItemSprite[i][j]);
 	    	}
 	    return scene;
