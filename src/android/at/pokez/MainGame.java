@@ -89,19 +89,15 @@ public class MainGame extends SimpleBaseGameActivity{
 	    bgSprite = new Sprite(0,0,bgTextureRegion,this.getVertexBufferObjectManager());
 	    scene.attachChild(bgSprite);
 	    bgGameSprite = new Sprite(0,0,bgGameTextureRegion,this.getVertexBufferObjectManager());
-	    bgGameSprite.setScaleCenter(400.0f, 240.0f);
-	    bgGameSprite.setScale(0.875f, 0.8958f);
-	    bgGameSprite.setPosition(100.0f,-50.0f);
+	    bgGameSprite.setPosition(100.0f, 0.0f);
 	    scene.attachChild(bgGameSprite);
 	    
 	    
 	    arrBoxItemSprite = new Sprite[gameMatrix.get_rows()][gameMatrix.get_cols()]; 
-	    for (int i = 0; i < gameMatrix.get_rows(); i++)
-	    	for (int j = 0; j< gameMatrix.get_cols(); j++){
+	    for (int i = 0; i < 3; i++)
+	    	for (int j = 0; j< 3  ; j++){
 	    		arrBoxItemSprite[i][j] = new Sprite(0,0,arrBoxItemTextureRegion[gameMatrix.getMatrix()[i][j]],this.getVertexBufferObjectManager());
-	    		arrBoxItemSprite[i][j].setScaleCenter(400.0f, 240.0f);
-	    		arrBoxItemSprite[i][j].setScale(0.125f,0.2f);
-	    		arrBoxItemSprite[i][j].setPosition(100+(87.5f*i),86.0f*j);
+	    		arrBoxItemSprite[i][j].setPosition(100+(58.0f*i),72.0f*j);
 	    		scene.attachChild(arrBoxItemSprite[i][j]);
 	    	}
 	    return scene;

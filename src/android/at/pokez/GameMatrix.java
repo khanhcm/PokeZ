@@ -35,6 +35,7 @@ public class GameMatrix {
 	public GameMatrix(int row, int col){
 		_rows = row;
 		_cols = col;
+		matrix = new int[row][col]; 
 		for (int i = 0; i < _rows; i++)
 			for (int j = 0; j < _cols; j++)
 				matrix[i][j] = 0;
